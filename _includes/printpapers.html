@@ -1,0 +1,23 @@
+<tr>
+	<td width="60px">
+	{{ item.year }}
+	</td>
+	<td>
+	{% if item.authors != '' %}with {{item.authors}}. {% endif %}
+	<b>{{item.title}}.</b> 
+	{% if item.type == collection %}
+    In 
+	{% endif %}
+    {% if item.venue %}<i>{{item.venue}}.</i>{% endif %}
+    {% if item.editor contains "and" %}Eds. {{ item.editor }}. {% elsif item.editor %}Ed. {{ item.editor }}. {% endif %}
+	{% if item.series %}{{ item.series }} {% endif %}
+	{% if item.vol and item.pages %}{{item.vol}}: {{item.pages}}.
+	{% elsif item.vol %}{{item.vol}}.
+	{% elsif item.pages %}{{item.pages}}.{% endif %}	
+	{% if item.publisher %}{{item.publisher}}.{% endif %}
+	{% if item.DOI %}DOI: <a href="https://doi.org/{{item.DOI}}">{{item.DOI}}</a>{% endif %}<br>
+	{% if item.note %}(<i>{{ item.note }}</i>)<br> {% endif %}
+	{% if item.link %}[<a href="{{item.link}}">{{item.linktext}}</a>]{% endif %}
+	{% if item.mslink %}[<a href="{{item.mslink}}">{{item.mslinktext}}</a>]{% endif %}
+	</td>
+</tr>

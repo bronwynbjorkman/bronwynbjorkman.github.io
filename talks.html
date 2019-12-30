@@ -1,0 +1,31 @@
+---
+layout: default
+title: Talks
+---
+
+<h1>Upcoming Talks</h1>
+
+<p>
+<table>
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% for item in site.data.talks %}
+{% capture date %}{{ item.date | date: '%s' | plus: 0 }}{% endcapture %}
+{% if date > now %}
+	{% include printtalks.html %}
+{% endif %}
+{% endfor %}
+</table>
+
+
+<h1>Past Talks (+handouts)</h1>
+<p>
+
+<table>
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% for item in site.data.talks %}
+{% capture date %}{{ item.date | date: '%s' | plus: 0 }}{% endcapture %}
+{% if date < now %}
+	{% include printtalks.html %}
+{% endif %}
+{% endfor %}
+</table>

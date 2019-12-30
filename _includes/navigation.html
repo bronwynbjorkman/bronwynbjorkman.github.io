@@ -1,0 +1,9 @@
+<nav>
+	<ul>
+	  <li id="name">Bronwyn M. Bjorkman</li>
+	  	{% for item in site.data.navigation %}
+	  <li><a href="{{ item.link }}"{% if page.url == item.link %}class="current"{% endif %}>{{item.name}}</a></li>
+		{% endfor %}
+	  <li><a href="/assets/bjorkman_cv.pdf">CV</a>
+	</ul>
+</nav>

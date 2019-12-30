@@ -1,0 +1,310 @@
+- authors: ''
+  type: manuscript
+  title: 'Against licensing in Sequence of Tense (squib)'
+  year: 'submitted'
+  note: "submitted to Canadian Journal of Linguistics/Revue canadienne de linguistique, October 2019"
+  mslink: 
+  mslinktext: 'manuscript pdf'
+- authors: ''
+  type: manuscript
+  title: "What's going on with <i>you guys</i>?"
+  note: 'submitted to Snippets, October 2019'
+  year: 'submitted'
+- authors: 'Elizabeth Cowper and Dan Siddiqi'
+  type: manuscript
+  title: 'Unifying -ing without participles'
+  year: 'in revision'
+  note: 'being revised, as of Nov 2019'
+- authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
+  type: collection
+  venue: 'Syntactic Features and the Limits of Syntactic Change'
+  editors: "Jónsson, Jóhannes Gísli and Eythórsson, Thórhallur"
+  publisher: 'Oxford University Press'
+  title: 'Investigating the past of the futurate present'
+  year: 'In press'
+- authors: 'Hedde Zeijlstra'
+  type: journal
+  venue: 'Linguistic Inquiry'
+  pages: '527--569'
+  title: 'Checking up on (φ)Agree'
+  vol: '50.3'
+  year: '2019'
+  DOI: 10.1162/ling_a_00319
+  link: https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00319
+  linktext: 'at LI'
+- authors: 'Elizabeth Cowper, Daniel Currie Hall, and Neil Banerjee'
+  type: journal
+  title: 'Illusions of transitive expletives in Middle English'
+  venue: 'Journal of Comparative Germanic Linguistics'
+  vol: '22(3)'
+  pages: '211–246'
+  DOI: 10.1007/s10828-019-09110-z
+  link: https://link.springer.com/article/10.1007%2Fs10828-019-09110-z
+  linktext: 'at JCGL'
+  year: '2019'
+- authors: 'Elizabeth Cowper, Daniel Currie Hall, and Andrew Peters'
+  type: journal
+  year: '2019'
+  title: 'Person and deixis in Heiltsuk pronouns' 
+  venue: 'Canadian Journal of Linguistics/Revue canadienne de linguistique'
+  vol: '64(4)'
+  pages: '574–591'
+  DOI: 10.1017/cnj.2019.13
+  link: https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/person-and-deixis-in-heiltsuk-pronouns/F67315E8202952858D69D181C5E2EE11
+  linktext: 'at CJL'
+  mslink: 
+  mslinktext: 'accepted version'
+- authors: ''
+  type: journal
+  venue: 'Syntax'
+  pages: '321--361'
+  title: 'Ergative as perfective oblique'
+  vol: '21.4'
+  year: '2018'
+  DOI: https://doi.org/10.1111/synt.12162
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12162  
+  linktext: 'at Syntax'
+  mslink: 
+  mslinktext: 'on lingbuzz (pre-publication pdf)'
+- authors: 'Peter Jurgec'
+  year: '2018'
+  type: journal
+  title: "Indexation to stems and words."
+  venue: "Phonology"
+  vol: "35(4)"
+  pages: "577–615"
+  DOI: 10.1017/S0952675718000210
+  link: https://www.cambridge.org/core/journals/phonology/article/indexation-to-stems-and-words/B6902BEDFD18EBB234D667EE9AD8E6AE
+  linktext: "at Phonology"
+- authors: ''
+  type: collection
+  title: "<i>Syntactic Structures</i> and Morphology"
+  year: "2018"
+  venue: "Syntactic Structures 60 years on"
+  editor: "N. Hornstein, H. Lasnik, P. Patel-Grosz, and C. Yang"
+  publisher: "De Gruyter Mouton"
+  pages: "14pp"
+- authors: 'Sali A. Tagliamonte'
+  type: proceedings
+  venue: 'Proceedings of NELS 48'
+  pages: '87--96'
+  publisher: 'GLSA'
+  title: "What <i>can</i> can and can't do"
+  year: '2018'
+  mslink: 
+  mslinktext: 'pdf'
+- authors: ''
+  type: collection
+  year: '2017'	
+  title: 'How to do things with verbs'
+  venue: 'A Pesky Set: Papers for David Pesetsky'
+  editor: 'C. Halpert, H. Kotek, and C. van Urk'
+  publisher: 'MITWLPL'
+  series: 'MIT Working Papers in Linguistics'
+  vol: '80'
+  pages: '10pp.'
+- authors: 'Claire Halpert'
+  type: collection
+  venue: 'Modality Across Syntactic Categories'
+  editors: 'Salanova, Andrés and Rivero, María Luisa and Arregui, Ana'
+  publisher: 'Oxford University Press'
+  title: 'In an imperfect world: deriving the typology of counterfactual marking'
+  year: '2017'
+  link: 
+  linktext: 'pre-review manuscript'
+- authors: ''
+  type: journal
+  venue: 'Glossa'
+  pages: '80'
+  title: 'Singular <i>they</i> and the syntactic representation of gender in English'
+  vol: '2.1'
+  year: '2017'
+  DOI: 10.5334/gjgl.374
+  link: https://www.glossa-journal.org/articles/abstract/10.5334/gjgl.374/
+  linktext: 'at Glossa (open access)'
+- authors: ''
+  type: other
+  note: "Ms. Queen's University. Paper presented at the 2016 Kalamazoo workshop on aspect and modality"
+  title: 'Building Imperfect Counterfactuals'
+  year: '2016'
+  mslink: ''
+  mslinktext: 'pdf'
+- authors: 'Ewan Dunbar'
+  type: journal
+  venue: 'Linguistic Inquiry'
+  pages: '351--363'
+  title: 'Finite-state phonology predicts a typological gap in cyclic stress assignment'
+  vol: '47.2'
+  year: '2016'
+- authors: ''
+  type: journal
+  venue: 'Natural Language & Linguistic Theory'
+  pages: '53--91'
+  title: 'Go get, come see: motion verbs, morphological restrictions, and syncretism'
+  vol: '34.1'
+  year: '2016'
+  DOI:  10.1007/s11049-015-9301-0
+  link: https://link.springer.com/article/10.1007/s11049-015-9301-0
+  linktext: 'at NLLT'
+  mslink: 
+  mslinktext: 'pre-publication pdf'
+- authors: 'Elizabeth Cowper'
+  type: journal
+  venue: 'Lingua. Special Issue: Understanding Possession'
+  editors: 'E. Schoorlemmer and B. Le Bruyn'
+  pages: '30--48'
+  title: 'Possession and necessity: from individuals to worlds'
+  vol: '182'
+  year: '2016'
+  DOI: 10.1016/j.lingua.201602.002
+  link: http://ling.auf.net/lingbuzz/002552
+  linktext: 'on lingbuzz (final version)'
+- authors: 'Elizabeth Cowper'
+  type: proceedings
+  venue: "2015 CLA Conference Proceedings/Actes du Congrès de l'ACL 2015"
+  title: 'Where <i>there</i> is, and why'
+  year: '2015'
+  mslink: http://cla-acl.ca/actes-2015-proceedings/
+  mslinktext: 'full online proceedings'
+  link: http://cla-acl.ca/wp-content/uploads/Bjorkman_Cowper-2015.pdf
+  linktext: 'pdf'
+- authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
+  type: proceedings
+  venue: "2015 CLA Conference Proceedings/Actes du Congrès de l'ACL 2015"
+  title: "There's no future in Old English"
+  year: '2015'
+  mslink: http://cla-acl.ca/actes-2015-proceedings/
+  mslinktext: 'full online proceedings'
+  link: http://cla-acl.ca/wp-content/uploads/Cowper_Hall_Bjorkman_Tollan_Banerjee-2015.pdf
+  linktext: 'pdf'
+- authors: ''
+  type: journal
+  year: '2014'
+  title: 'Accounting for unexpected subject gaps in TP coordination.'
+  venue: 'The Linguistic Review'
+  volume: '30(3-4)'
+  pages: '487–513'
+  DOI: 10.1515/tlr-2014-0011
+  link: https://www.degruyter.com/view/j/tlir.2014.31.issue-3-4/tlr-2014-0011/tlr-2014-0011.xml
+  linktext: 'at TLR'
+  mslink: 
+  mslinktext: 'pre-publication pdf'
+  type: proceedings
+- authors: 'Elizabeth Cowper'
+  venue: "2014 CLA Conference Proceedings/Actes du Congrès de l'ACL 2014"
+  title: 'English modal <i>have</i>'
+  year: '2014'
+  mslink: http://cla-acl.ca/actes-2014-proceedings/
+  mslinktext: 'full online proceedings'
+  link: http://cla-acl.ca/wp-content/uploads/Bjorkman_Cowper-2014.pdf
+  linktext: 'pdf'
+- authors: ''
+  type: other
+  year: '2013'
+  title: 'Auxiliaries'
+  venue: 'Oxford Bibliographies in Linguistics'
+  editors: 'Mark Aronoff'
+  publisher: 'Oxford University Press'
+  link: http://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0124.xml
+  linktext: 'available online'
+- authors: 'Claire Halpert'
+  type: proceedings
+  venue: 'Proceedings of NELS 42'
+  publisher: 'GLSA, University of Massachusetts'
+  title: 'In search of (im)perfection: the illusion of counterfactual aspect'
+  year: '2013'
+  link: 
+  linktext: 'pdf'
+- authors: 'Elizabeth Cowper'
+  type: proceedings
+  venue: 'Proceedings of the 2013 annual conference of the Canadian Linguistic Association.'
+  title: 'Inflectional shells and the syntax of causative \textit{have}'
+  year: '2013'
+  link: http://cla-acl.ca/actes-2013-proceedings/
+  linktext: 'full online proceedings'
+  mslink: http://homes.chass.utoronto.ca/~cla-acl/actes2013/Bjorkman_and_Cowper-2013.pdf
+  mslinktext: 'pdf'
+- authors: ''
+  type: collection
+  venue: 'Syntax and Its Limits'
+  editors: 'Rafaella Folli and Christiana Sevdali and Robert Truswell.'
+  pages: '391--408'
+  publisher: 'Oxford University Press'
+  title: 'A syntactic answer to a pragmatic puzzle: The case of asymmetric <i>and</i>'
+  year: '2013'
+  DOI: 10.1093/acprof:oso/9780199683239.001.0001
+  link: 
+  linktext: 'pre-publication PDF'
+- authors: ''
+  type: proceedings
+  venue: 'Proceedings of NELS 40'
+  pages: '71--84'
+  publisher: 'GLSA Publications: UMass'
+  title: 'The Syntax of Syncretism'
+  vol: '1'
+  year: '2013'
+- authors: ''
+  type: proceedings
+  venue: 'Proceedings of NELS 41'
+  pages: '99--112'
+  publisher: 'GLSA Publications: UMass'
+  title: 'A syntactic correlate of a semantic asymmetry'
+  year: '2012'
+  link: 
+  linktext: 'pdf'
+- authors: ''
+  type: other
+  title: 'BE-ing Default: the Morphosyntax of Auxiliaries'
+  year: '2011'
+  venue: 'PhD thesis, MIT'
+  mslink: https://ling.auf.net/lingbuzz/001354
+  mslinktext: 'on lingbuzz'
+  link: http://hdl.handle.net/1721.1/68911
+  linktext: 'DSpace@MIT'
+- authors: ''
+  type: proceedings
+  venue: 'Proceedings of WCCFL 29: Papers from the Poster Session'
+  series: 'Coyote Working Papers in Linguistics'
+  title: 'The Crosslinguistic Defaultness of \textit{be}'
+  year: '2011'
+  link: 
+  linktext: 'pdf'
+- authors: ''  
+  type: collection
+  venue: 'McGill Working Papers in Linguistics'
+  volume: '20.2'
+  editors: 'E. Dobler and Y. Furukawa.'
+  title: 'Shuswap double reduplication and input-reduplicant faithfulness.'
+  year: '2002'
+- authors: ''
+  type: proceedings
+  venue: 'Proceedings of NWLC 2009'
+  series: 'UBCWPL'
+  title: 'Go get, come see'
+  vol: '25'
+  year: '2009'
+- authors: ''
+  type: proceedings
+  venue: 'Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas 15'
+  series: 'UBCWPL'
+  title: 'Morphology and stress in Nez Perce verbs'
+  vol: '29'
+  year: '2010'
+  link:
+  linktext: 'pdf'
+#- title: ''
+#  type: proceedings/collection/other/journal/manuscript
+#  authors: ''
+#  year: 
+#  venue:
+#  volume: 
+#  pages:
+#  publisher: 
+#  series: 
+#  editor: 
+#  DOI: 
+#  linktext: 
+#  link: 
+#  mslink: 
+#  mslinktext:
+#  note: 

@@ -1,0 +1,259 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+
+$maincolor: crimson;
+$secondcolor: darkred;
+$activecolor: lightcoral;
+$currentcolor: pink;
+
+$headerfontstack: Montserrat, sans-serif;
+$fontstack: Open Sans, Helvetica, Arial, sans-serif;
+
+$contentwidth: 800px;
+
+$side-margin:200px;
+
+
+
+body{
+	/*font-family: Georgia, Times, serif;*/
+	font-family: $fontstack;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1.6;
+	background-color: #ffffff;/*#707070;*//*347C2C;*/
+	margin: 0em;
+
+	#content {
+	padding: 180px 1em 2em 1em;
+	background-color: lightgray;
+	}
+	
+/*Navigation Bar*/
+
+nav{
+ 	list-style: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+    height:40px;
+    font-family: $headerfontstack;
+ 
+ 	ul {
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	width: 100%;
+	background-color: white;
+	position: fixed; /* Make it stick, even on scroll */
+  	overflow: hidden;
+    text-align: left;
+    border-bottom: 2px solid lightgray;
+	}
+
+	li {
+	display: inline-block;
+	padding: 1em 1em 0.5em 1em;
+
+	a {
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	padding: 1em;
+	}
+		
+	}
+	
+}
+
+	#name{
+	font-size:18pt;
+	color:gray;
+	padding-top: 100px;
+	padding-right: 3em;
+	}
+	
+	
+	.current {
+	color: $currentcolor;
+	border-bottom:1px solid lightgray;
+	}
+	
+/*center floating content area*/
+
+div#bodybg
+	{background-color: #ffffff;/*#707070;*/
+	margin-right:auto; 
+	margin-left:auto;
+	margin-top:0;
+	width: $contentwidth;
+	padding: 0px;/*3px;*/
+	color: #222222;
+	margin-bottom: 3em;
+	}
+	
+div#container
+	{
+    position:relative;
+    padding-left:$side-margin;
+    padding-right:$side-margin;
+    padding-top:0px;
+    padding-bottom:3em;
+    
+	   .left-panel {
+	   width: $side-margin;
+	   position:absolute;
+	   left:0px;
+	   top:0px;
+	   }
+	   
+	   .right-panel {
+       width: $side-margin;
+  	   position:absolute;
+       right:0px;
+       top:0px;
+       }
+       
+       .center-panel {
+        display:block; 
+        margin-left:auto; 
+        margin-right:auto;
+        margin-top:0px;
+        }
+	}
+	
+div.twocol{
+	column-count: 2;
+	column-gap: 2em;
+	column-rule-style: solid;
+	column-rule-color: white;
+	column-rule-width: 1px;
+	
+	img.circle
+	{
+	display: block;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: gray;
+	border-width: 3px;
+	max-width: 60%;
+	margin-top: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+	
+}
+
+div.column{
+	display: inline-block;
+	margin: 0;
+	padding: 1em;
+	}
+
+div#header
+	{
+	text-align:left;
+	/*width: 500px;*/
+	margin-left:auto;
+	margin-right:0px;
+	margin-top:0px;
+	padding:10px;
+	color: #222222;
+	border-color:#003300;
+	background-color:#f8f8f8;
+	/*height: 210px;*/
+	/*overflow: auto;*/
+	}
+
+
+/* 
+div#menu
+	{
+	background-color:#f8f8f8;
+	margin-top:2px;
+	padding-left:20px;
+	padding-top:5px;
+	padding-bottom:5px;
+	color: #222222;
+	text-align:left;
+	/*font-size:12pt;*/
+	/*font-variant:small-caps;*/
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
+ */
+
+div#footer
+	{ 
+	padding:1em;
+	color: #AAAAAA;
+	text-align: center;
+	}
+
+/* Banner */
+
+	#banner {
+		padding: 18em 0 0em 0;
+		background-image: url('/assets/images/books.jpg');
+		background-size: cover;
+		background-position: top;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		text-align: left;
+		border-top: 0.5em solid white;
+	}
+
+		#banner h1 {
+			font-size: 3.5em;
+			font-weight: 100;
+			color: white;
+			line-height: 1em;
+			margin: 0 0 0.5em 0;
+			padding: 0;
+		}
+
+		#banner p {
+			font-size: 1em;
+			color: lightgray;
+			margin-bottom: 1.75em;
+		}
+}
+
+	a:link {color: $maincolor;text-decoration:none;}
+ 	a:visited {color: $maincolor;text-decoration:none;}
+ 	a:hover {color: $activecolor}
+ 	a:active {color: $activecolor}
+
+table
+	{
+	font-family: $fontstack;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	border-spacing: 10px;
+	}
+
+tr
+	{
+	vertical-align: top;
+	}
+	
+h1	
+	{
+	font-family: $headerfontstack;
+	font-size:18px;
+	}
+	
+h2
+	{
+	font-family: $headerfontstack;
+	text-align:left;
+	font-size:14px;
+	}
+
+

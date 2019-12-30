@@ -1,0 +1,437 @@
+- name: 'TBD'
+  authors: ''
+  date: 'April 2020'
+  type: Talk
+  event: 'Princeton Symposium on Syntactic Theory (PSST)'
+  location: 'Princeton, NJ'
+  linktext: ''
+  link: ''
+- name: 'TBD'
+  authors: ''
+  date: 'February 20, 2020'
+  type: Special
+  event: 'Colloquium Talk to be given at CASTL, University of Tromsø'
+  location: 'Tromsø, Norway'
+  linktext: ''
+  link: ''
+- name: 'Structural disanalogies between pronouns and tenses.'
+  authors: ''
+  date: 'December 5, 2019'
+  type: Special
+  event: 'Annual keynote talk for the Linguistics Students Association of Concordia University'
+  location: 'Montreal, QC'
+  linktext: ''
+  link: ''
+- name: 'Some Structural disanalogies between pronouns and tenses.'
+  authors: ''
+  date: 'November 1, 2019'
+  type: Talk
+  event: 'YYC Pronouns Workshop, University of Calgary'
+  location: 'Calgary, AB'
+  linktext: ''
+  link: ''
+- name: 'Reduplication without segments: verb doubling as a prosodic repair'
+  authors: ''
+  date: 'October 1, 2019'
+  type: Poster
+  event: 'NELS 50 at MIT'
+  location: 'Cambridge, MA'
+  linktext: poster
+  link: assets/handouts/Bjorkman_2019_ReduplicationWithoutSegments_NELS50.pdf
+- name: "We seen 'eh' and so on: a preliminary study of three variables in the Wolfe Island English Corpus."
+  date: 'January 2019'
+  authors: Anastasia Riehl
+  type: Talk
+  event: 'the 2019 Meeting of the American Dialect Society'
+  location: 'New York, NY'
+  linktext: ''
+  link: ''
+- name: "Repair or realization? Do-support, verb doubling, and linearization."
+  authors: ''
+  date: 'January 2019'
+  type: Special
+  event: 'Colloquium talk given at the University of Ottawa'
+  location: 'Ottawa, ON'
+  linktext: ''
+  link: ''
+- name: "Against cross-clausal dependencies in tense."
+  date: 'November 2018'
+  authors: ''
+  type: Special
+  event: 'Colloquium talk given as part of the <i>Interaction of Grammatical Building Blocks</i> series at the University of Leipzig'
+  location: 'Leipzig, Germany'
+  linktext: ''
+  link: ''
+- name: "Realization vs. Repair: the logic of 'last resort' in auxiliary systems."
+  date: 'November 2018'
+  authors: ''
+  type: Special
+  event: 'Keynote talk given at the <i>Workshop on Morphosyntactic Repairs</i>, November 9 2018, University of Leipzig'
+  location: 'Leipzig, Germany.'
+  link: ''
+- name: "Tense: representation, realization, and interpretation."
+  date: 'June 2018'
+  authors: ''
+  type: Special
+  event: 'Invited 3 day lecture series at the Centre for Research in Syntax, Semantics, and Phonology (CRISSP), KU Leuven'
+  location: 'Brussels, Belgium'
+  link: ''
+- name: "Pronominal tense and anaphora: evidence from sequence of tense."
+  authors: ''
+  date: 'May 2018'
+  type: Talk
+  event: "the 2018 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Regina, SK'
+  link: "assets/handouts/Bjorkman_2018_PronominalTenseAndAnaphora_CLA2018.pdf"
+  linktext: slides
+- name: "Unifying <i>-ing</i> without participles."
+  authors: 'Elizabeth Cowper and Dan Siddiqi'
+  date: 'April 2018'
+  type: Poster
+  event: 'GLOW 41'
+  location: 'Budapest, Hungary'
+  link: ''
+  linktext: ''
+- name: "From homophony to unity."
+  date: 'November 2017'
+  authors: 'Elizabeth Cowper and Dan Siddiqi'
+  link: "assets/handouts/BjorkmanCowperSiddiqi_HomophonytoUnity_MoMOT2.pdf"
+  linktext: "handout"
+  type: Special
+  event: 'Keynote given at Mo-MOT 2 at UQAM'
+  location: 'Montreal, QC'
+- name: "What CAN can and can't do."
+  authors: 'with Sali Tagliamonte'
+  link: "assets/handouts/BjorkmanTagliamonte_2017_WhatCanCantDo_NELS48.pdf"
+  linktext: 'poster+references'
+  date: 'October 2017'
+  type: Poster
+  event: 'NELS 48'
+  location: 'Reykjavik, Iceland'
+- name: "Person and deixis in Heiltsuk pronouns."
+  date: 'September 2017'
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, and Andrew Peters' 
+  type: Special
+  event: Invited talk at the Manitoba Workshop on Person 
+  location: 'Winnipeg, Manitoba'
+  link: ''
+  linktext: ''
+  note: 'A version of this talk was also presented at the 2017 Dog Days of Syntax workshop at UofT.'
+- name: "Who can <i>they</i> be?"
+  authors: ''
+  date: 'August 2017'
+  type: Special
+  event: 'Keynote talk at the 2017 Dog Days of Syntax workshop at UofT'
+  location: 'Toronto, ON'
+  link: ''
+  linktext: ''
+- name: "What can explain it? The changing modals of York English"
+  date: 'June 2017'
+  authors: 'with Sali Tagliamonte'
+  link: "assets/handouts/BjorkmanTagliamonte_2017_WhatCanExplainIt_FWAV4.pdf"
+  linktext: "slides"
+  type: Talk
+  event: "Formal Ways of Analyzing Variation 4 (FWAV4)" 
+  location: 'York, UK'
+- name: "Indexation to stems and words: accounting for non-local morphophonological effects."
+  date: 'March 2017'
+  authors: 'Peter Jurgec'
+  type: Talk 
+  event: "the 2017 Montreal-Ottawa-Toronto Phonology Workshop"
+  location: 'Montreal, QC'
+  link: ''
+  linktext: ''
+- name: "Dependant Past: sorting out modality, adjuncts, and embedded clauses."
+  date: 'December 2016'
+  authors: ''
+  type: Special
+  event: 'Keynote talk at the Workshop on the Meaning of Past Tense'
+  location: 'Goettingen, Germany'
+  link: ''
+  linktext: ''
+- name: "The inherent problem of modal subjects."
+  date: 'November 2016'
+  authors: ''
+  type: Talk 
+  event: 'Mo-MOT 1 at Carleton University'
+  location: 'Ottawa, ON'
+  link: ''
+  linktext: ''
+- name: "Building imperfect counterfactuals."
+  date: 'April 2016'
+  authors: ''
+  type: Talk 
+  event: 'the Western Michigan Workshop on Aspect and Modality'
+  location: 'Kalamazoo, MI'
+  note: 'A version of this talk was also presented at the 2016 Dog Days of Syntax workshop at UofT.'
+  link: ''
+  linktext: ''
+- name: "Indexing constraints to words: evidence from derived environment effects."
+  date: 'April 2016'
+  authors: 'Peter Jurgec'
+  link: "assets/handouts/BjorkmanJurgec_2016_IndexedConstraints_GLOW39.pdf"
+  linktext: 'poster'
+  type: Poster
+  event: 'GLOW 39' 
+  location: 'Göttingen, Germany' 
+- name: "Grammaticalizing case: some inherent problems."
+  date: 'January 2016'
+  link: "assets/handouts/Bjorkman_2016_GrammaticalizingCase_UofT.pdf"
+  linktext: 'handout'
+  type: Special
+  event: 'Invited talk at the University of Toronto'
+  location: 'Toronto, ON'
+  link: ''
+  linktext: ''
+- name: "Regularizing effects of indexation to complex constituents."
+  date: 'January 2016'
+  authors: 'Peter Jurgec'
+  type: Talk
+  event: 'the 13th Old World Conference in Phonology (OCP13)' 
+  location: 'Budapest, Hungary'
+  link: ''
+  linktext: ''
+- name: "From times to worlds: the relational unity of perfects and evidentials."
+  authors: 'Claire Halpert and Hadil Karawani'
+  date: 'November 2015'
+  link: "assets/handouts/BjorkmanHalpertKarawani_2015_FromTimesToWorlds_PerfectVariation.pdf"
+  linktext: "slides"
+  type: Talk 
+  event: "the Perfect: variation workshop" 
+  location: 'Trondheim, Norway'
+- name: "The Case of Aspect"
+  authors: ''
+  date: 'October 2015'
+  link: "assets/handouts/Bjorkman_2015_CaseofAspect_Cornell.pdf"
+  linktext: "handout"
+  type: Talk 
+  event: 'the Cornell workshop on Aspect'
+  location: 'Ithaca, NY'
+  note: 'An earlier version of this talk was also presented at the 2015 Dog Days of Syntax workshop at UofT.' 
+- name: "<i>There</i> then and now."
+  date: 'September 2015'
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
+  type: Talk 
+  event: 'SLE 2015' 
+  location: 'Leiden, the Netherlands'
+  link: ''
+  linktext: ''
+- name: "Illusions of transitive expletives in Middle English."
+  date: 'July 2015'
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
+  link: "assets/handouts/CowperEtAl_2015_IllusionsOfTransitiveExpletives_ICHL22.pdf"
+  linktext: "handout"
+  type: Talk 
+  event: 'the 22nd International Conference on Historical Linguistics'
+  location: 'Naples, Italy'
+- name: "Where <i>there</i> is, and why."
+  date: 'May 2015'
+  authors: 'Elizabeth Cowper' 
+  link: "assets/handouts/BjorkmanCowper_2015_WhereThereIs_CLA2015.pdf"
+  linktext: "handout"
+  type: Talk 
+  event: "the 2015 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Ottawa, ON'
+- name: "There's no future in Old English."
+  date: 'May 2015'
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
+  link: "assets/handouts/CowperEtAl_2015_NoFutureInOldEnglish_CLA2015.pdf"
+  linktext: "handout"
+  type: Talk 
+  event: "the 2015 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Ottawa, ON'
+- name: "Investigating the past of the futurate present."
+  date: 'May 2015'
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
+  type: Talk 
+  event: 'DiGS 17' 
+  location: 'Reykjavík, Iceland'
+  link: ''
+  linktext: '' 
+- name: "Upwards Agree is Superior"
+  authors: 'Hedde Zeijlstra'
+  date: 'March 2015'
+  link: "assets/handouts/BjorkmanZeijlstra_UpwardsAgree_Poster_WCCFL33.pdf"
+  linktext: "poster"
+  type: Poster
+  event: 'WCCFL 33' 
+  location: 'Vancouver, BC'
+- name: "Upwards Agree and LDA" 
+  date: 'March 2015'
+  authors: ''
+  link: ''
+  linktext: ''
+  type: Talk 
+  event: 'the McGill Syntax Reading Group'
+  location: 'Montreal, QC'
+  note: 'joint work with Hedde Zeijlstra'
+- name: "Not all fake pasts are real"
+  date: 'February 2015'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2015_NotAllFakePasts_York.pdf"
+  linktext: "slides"
+  type: Special
+  event: 'Invited talk, presented as part of the Department of Languages, Literatures, and Linguistics Lecture Series at York University'
+  location: 'Toronto, ON'
+  Note: 'This work was also presented at Ling Tea at McGill University in March 2015.'
+- name: "Eliminating cyclicity: A reanalysis of Chamorro stress"
+  date: 'January 2015'
+  authors: 'Ewan Dunbar'
+  link: "assets/handouts/BjorkmanDunbar_2015_CyclicStress_Poster_LSA2015.pdf"
+  linktext: "poster" 
+  type: Poster
+  event: 'the 2015 LSA Annual Meeting'
+  location: 'Portland, OR'
+- name: "Ergative as Perfective Oblique"
+  date: 'July 2014'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2014_ErgativeAsPerfectiveOblique_Goettingen.pdf"
+  linktext: "handout"
+  type: Special
+  event: 'Invited talk, presented at a meeting of the Syntax/Semantics Reading Group at the University of Göttingen'
+  location: 'Göttingen, Germany'
+  note: 'This is a slightly updated version of a talk I gave in April 2014 at a joint meeting of the Polinsky Language Sciences Lab and the Language Universals Reading Group at Harvard University.'
+- name: "Possession and Necessity: from individuals to worlds"
+  date: 'April 2014'
+  authors: 'Elizabeth Cowper'
+  link: "assets/handouts/BjorkmanCowper_2014_PossessionAndNecessity_GLOW37.pdf"
+  linktext: "handout"
+  type: Talk
+  event: "the Semantics/Morphology workshop on possession, GLOW 37 (Brussels, Belgium), and at the 2014 CLA Annual Conference / Congrès annuel d'ACL"
+  location: 'St. Catharines, ON'
+  note: 'Earlier versions of this work were presented as an invited talk at MOTH in March 2013, and at MIT Ling-Lunch in April 2013. If for some reason you would like a copy of one of the earlier handouts, feel free to contact me.'
+- name: "Multiple Agrees?"
+  date: 'January 2014'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2014_Agree_Poster_LSA2014.pdf"
+  linktext: "poster" 
+  type: Poster
+  event: 'the 2014 LSA Annual Meeting' 
+  location: 'Minneapolis, MN' 
+- name: "Inflectional shells and the syntax of causative <i>have</i>"
+  authors: 'Elizabeth Cowper'
+  date: 'June 2013'
+  link: "assets/handouts/BjorkmanCowper_2013_InflectionalShells_Poster_CLA2013.pdf"
+  linktext: "poster" 
+  type: Poster
+  event: "the 2013 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Victoria, BC'
+- name: "Accounting for the Absence of Coreferential Subjects in TP Coordination"
+  date: 'April 2013'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2013_BanOnCoreference_GLOW36.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'GLOW 36'
+  location: 'Lund, Sweden'
+- name: "Aspectual Ergative as Perfective Oblique"  
+  date: 'January 2013'
+  link: "assets/handouts/Bjorkman_2013_AspectualErgative_Poster_LSA2013.pdf"
+  linktext: "poster" 
+  type: Poster
+  event: 'the 2013 LSA Annual Meeting'
+  location: 'Boston, MA'
+- name: "In an imperfect world: deriving the typology of counterfactual marking"
+  date: 'April 2012'
+  authors: 'Claire Halpert'
+  link: "assets/handouts/BjorkmanHalpert_2012_InanImperfectWorld_ModalityOttawa.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'Modality @ OttawaU'
+  location: 'Ottawa, ON'
+- name: "In search of (im)perfection: the illusion of counterfactual aspect"
+  date: 'March 2012'
+  authors: 'Claire Halpert'
+  link: "assets/handouts/BjorkmanHalpert_2012_InSearchofImperfection_GLOW35.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'GLOW 35'
+  location: 'Potsdam, Germany'
+- name: "Motivating verbal inflection via auxiliary verb constructions."
+  authors: ''
+  date: 'January 2012'
+  link: "assets/handouts/Bjorkman_2012_MotivatingVerbalInflection_LSA2012.pdf"
+  linktext: "handout"
+  type: Talk
+  event: '2012 LSA Annual Meeting'
+  location: 'Portland, OR'
+- name: "In search of (im)perfection: the illusion of counterfactual aspect"
+  date: 'November 2011'
+  authors: 'Claire Halpert'
+  link: "assets/handouts/BjorkmanHalpert_2011_InSearchofImperfection_NELS42.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'NELS 42, University of Toronto'
+  location: 'Toronto, ON'
+- name: "The Syntax of Auxiliaries From a Cross-linguistic Perspective"
+  authors: ''
+  date: 'May 2011'
+  link: "assets/handouts/Bjorkman_2011_SyntaxofAuxiliaries_CLA2011.pdf"
+  linktext: "handout"
+  type: Talk
+  event: "the 2011 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Fredericton, NB'
+- name: "The Crosslinguistic Defaultness of BE"
+  authors: ''
+  date: 'April 2011'
+  link: "assets/handouts/Bjorkman_2011_DefaultnessofBE_Poster_WCCFL29.pdf"
+  linktext: "poster" 
+  type: Poster
+  event: 'WCCFL 29, University of Arizona'
+  location: 'Tucson, AZ' 
+- name: "The Syntax of Inverted Conditional Antecedents."
+  date: 'January 2011'
+  link: "assets/handouts/Bjorkman_2011_ConditionalInversion_handout_LSA2011.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'the 2011 LSA Annual Meeting'
+  location: 'Pittsburgh, PA' 
+  authors: ''
+- name: "Towards an Asymmetric Semantics for <i>and</i>."
+  date: 'December 2010'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2010_AsymmetricSemantics_handout_ONLI2.pdf"
+  linktext: "handout"
+  event: 'On Linguistic Interfaces II, University of Ulster'
+  location: 'Belfast, UK'
+- name: "A Syntactic Correlate of Semantic Asymmetries In Clausal Coordination."
+  date: 'October 2010'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2010_SyntacticCorrelate_handout_NELS41.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'NELS 41, University of Pennsylvania'
+  location: 'Philadelphia, PA'
+- name: "The Morphological Basis of Default-to-Opposite Stress in Nez Perce" 
+  date: 'January 2010'
+  authors: ''
+  link: "assets/handouts/Bjorkman_2010_NezPerceStress_handout_WSCLA14.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'OCP 7 (Nice, France) and WSCLA 14, University of Ottawa'
+  location: 'Ottawa, ON'
+- name: "The Syntax of Syncretism" 
+  date: 'November 2009'
+  author: ''
+  link: "assets/handouts/Bjorkman_2009_SyntaxSyncretism_handout_NELS40.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'NELS 40, MIT'
+  location: 'Cambridge, MA'
+  note: 'a similar talk was presented at GLS 2010, Georgetown University in Februrary 2010'  
+- name: "Uniform Exponence and Reduplication: Evidence from Kinande" 
+  author: ''
+  date: 'May 2009'
+  link: "assets/handouts/Bjorkman_2009_Kinande_Reduplication_handout_17mfm.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'the 17th Manchester Phonology Meeting, University of Manchester'
+  location: 'Manchester, UK'
+- name: "Go Get, Come See" 
+  date: 'April 2009'
+  link: "assets/handouts/Bjorkman_2009_GoVerb_handout_ECO5-09.pdf"
+  linktext: "handout"
+  type: Talk
+  event: 'NWLC 2009, University of British Columbia'
+  location: 'Vancouver, BC'
+  note: 'a similar version was presented at ECO5 at the University of Maryland the same month'
