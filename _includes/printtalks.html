@@ -5,7 +5,7 @@
 	<td>
 	<b> "{{ item.name }}" </b> <br> 
 	{% if item.authors != '' %}(with {{item.authors}})<br>{% endif %}
-	{% if item.link != '' %} [<a href="/assets/handouts/{{ item.link }}">{{ item.linktext }}</a>]<br>{% endif %}
+	{% if item.link != '' %} [<a href="{{ item.link }}">{{ item.linktext }}</a>]<br>{% endif %}
 	{% if item.type == 'Talk' %}Talk given at {% endif %}
 	{% if item.type == 'Poster' %}Poster presented at {% endif %}
 	{{ item.event }}. ({{item.location}})
