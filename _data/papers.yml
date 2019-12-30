@@ -25,7 +25,7 @@
 - authors: 'Hedde Zeijlstra'
   type: journal
   venue: 'Linguistic Inquiry'
-  pages: '527--569'
+  pages: '527—569'
   title: 'Checking up on (φ)Agree'
   vol: '50.3'
   year: '2019'
@@ -52,12 +52,12 @@
   DOI: 10.1017/cnj.2019.13
   link: https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/person-and-deixis-in-heiltsuk-pronouns/F67315E8202952858D69D181C5E2EE11
   linktext: 'at CJL'
-  mslink: 
+  mslink: "assets/papers/Bjorkman, Cowper, Hall, and Peters (2019) Person and Deixis in Heiltsuk Pronouns [accepted].pdf"
   mslinktext: 'accepted version'
 - authors: ''
   type: journal
   venue: 'Syntax'
-  pages: '321--361'
+  pages: '321—361'
   title: 'Ergative as perfective oblique'
   vol: '21.4'
   year: '2018'
@@ -87,11 +87,11 @@
 - authors: 'Sali A. Tagliamonte'
   type: proceedings
   venue: 'Proceedings of NELS 48'
-  pages: '87--96'
+  pages: '87—96'
   publisher: 'GLSA'
   title: "What <i>can</i> can and can't do"
   year: '2018'
-  mslink: 
+  mslink: "assets/papers/Bjorkman and Tagliamonte (2018) What CAN can and can't do [NELS 48] [final].pdf"
   mslinktext: 'pdf'
 - authors: ''
   type: collection
@@ -102,7 +102,7 @@
   publisher: 'MITWLPL'
   series: 'MIT Working Papers in Linguistics'
   vol: '80'
-  pages: '10pp.'
+  pages: '10pp'
 - authors: 'Claire Halpert'
   type: collection
   venue: 'Modality Across Syntactic Categories'
@@ -110,7 +110,7 @@
   publisher: 'Oxford University Press'
   title: 'In an imperfect world: deriving the typology of counterfactual marking'
   year: '2017'
-  link: 
+  link: "assets/papers/Bjorkman and Halpert (2017) In an imperfect world [pre-publication].pdf"
   linktext: 'pre-review manuscript'
 - authors: ''
   type: journal
@@ -132,30 +132,31 @@
 - authors: 'Ewan Dunbar'
   type: journal
   venue: 'Linguistic Inquiry'
-  pages: '351--363'
+  pages: '351—363'
   title: 'Finite-state phonology predicts a typological gap in cyclic stress assignment'
   vol: '47.2'
   year: '2016'
   DOI: 10.1162/LING_a_00214
   link: https://www.mitpressjournals.org/doi/10.1162/LING_a_00214
   linktext: "at LI"
+  mslink: "assets/papers/Bjorkman and Dunbar (2015) Finite State Phonology predicts typological gap [LI squib pre-publication].pdf"
 - authors: ''
   type: journal
   venue: 'Natural Language & Linguistic Theory'
-  pages: '53--91'
+  pages: '53—91'
   title: 'Go get, come see: motion verbs, morphological restrictions, and syncretism'
   vol: '34.1'
   year: '2016'
   DOI:  10.1007/s11049-015-9301-0
   link: https://link.springer.com/article/10.1007/s11049-015-9301-0
   linktext: 'at NLLT'
-  mslink: 
+  mslink: "assets/papers/Bjorkman (accepted) Go get, come see [NLLT].pdf"
   mslinktext: 'pre-publication pdf'
 - authors: 'Elizabeth Cowper'
   type: journal
   venue: 'Lingua. Special Issue: Understanding Possession'
   editors: 'E. Schoorlemmer and B. Le Bruyn'
-  pages: '30--48'
+  pages: '30—48'
   title: 'Possession and necessity: from individuals to worlds'
   vol: '182'
   year: '2016'
@@ -190,7 +191,7 @@
   DOI: 10.1515/tlr-2014-0011
   link: https://www.degruyter.com/view/j/tlir.2014.31.issue-3-4/tlr-2014-0011/tlr-2014-0011.xml
   linktext: 'at TLR'
-  mslink: 
+  mslink: "assets/papers/Bjorkman (2014) Accounting for Unexpected Subject Gaps in TP Coordination [TLR].pdf"
   mslinktext: 'pre-publication pdf'
   type: proceedings
 - authors: 'Elizabeth Cowper'
@@ -216,7 +217,7 @@
   publisher: 'GLSA, University of Massachusetts'
   title: 'In search of (im)perfection: the illusion of counterfactual aspect'
   year: '2013'
-  link: 
+  link: "assets/papers/Halpert & Bjorkman (2012) In search of (im)perfection [NELS42].pdf"
   linktext: 'pdf'
 - authors: 'Elizabeth Cowper'
   type: proceedings
@@ -231,17 +232,17 @@
   type: collection
   venue: 'Syntax and Its Limits'
   editors: 'Rafaella Folli and Christiana Sevdali and Robert Truswell.'
-  pages: '391--408'
+  pages: '391—408'
   publisher: 'Oxford University Press'
   title: 'A syntactic answer to a pragmatic puzzle: The case of asymmetric <i>and</i>'
   year: '2013'
   DOI: 10.1093/acprof:oso/9780199683239.001.0001
-  link: 
+  link: "assets/papers/Bjorkman (2013) A syntactic answer to a pragmatic puzzle [OUP Syntax and Its Limits].pdf"
   linktext: 'pre-publication PDF'
 - authors: ''
   type: proceedings
   venue: 'Proceedings of NELS 40'
-  pages: '71--84'
+  pages: '71—84'
   publisher: 'GLSA Publications: UMass'
   title: 'The Syntax of Syncretism'
   vol: '1'
@@ -249,11 +250,11 @@
 - authors: ''
   type: proceedings
   venue: 'Proceedings of NELS 41'
-  pages: '99--112'
+  pages: '99—112'
   publisher: 'GLSA Publications: UMass'
   title: 'A syntactic correlate of a semantic asymmetry'
   year: '2012'
-  link: 
+  link: "assets/papers/Bjorkman (2013) Syntactic Correlates [NELS 41].pdf"
   linktext: 'pdf'
 - authors: ''
   type: other
@@ -293,7 +294,7 @@
   title: 'Morphology and stress in Nez Perce verbs'
   vol: '29'
   year: '2010'
-  link:
+  link: "assets/papers/Bjorkman (2010) Morphology and stress in Nez Perce verbs [WSCLA15].pdf"
   linktext: 'pdf'
 #- title: ''
 #  type: proceedings/collection/other/journal/manuscript
