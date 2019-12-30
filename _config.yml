@@ -39,6 +39,8 @@
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-last-modified-at
+  
+  github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
