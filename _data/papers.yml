@@ -140,6 +140,7 @@
   link: https://www.mitpressjournals.org/doi/10.1162/LING_a_00214
   linktext: "at LI"
   mslink: "assets/papers/Bjorkman and Dunbar (2015) Finite State Phonology predicts typological gap [LI squib pre-publication].pdf"
+  mslinktext: "pre-publication pdf"
 - authors: ''
   type: journal
   venue: 'Natural Language & Linguistic Theory'
@@ -238,7 +239,7 @@
   year: '2013'
   DOI: 10.1093/acprof:oso/9780199683239.001.0001
   link: "assets/papers/Bjorkman (2013) A syntactic answer to a pragmatic puzzle [OUP Syntax and Its Limits].pdf"
-  linktext: 'pre-publication PDF'
+  linktext: 'pre-publication pdf'
 - authors: ''
   type: proceedings
   venue: 'Proceedings of NELS 40'

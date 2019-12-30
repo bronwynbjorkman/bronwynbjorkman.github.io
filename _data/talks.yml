@@ -37,7 +37,7 @@
   event: 'NELS 50 at MIT'
   location: 'Cambridge, MA'
   linktext: poster
-  link: assets/handouts/Bjorkman_2019_ReduplicationWithoutSegments_NELS50.pdf
+  link: Bjorkman_2019_ReduplicationWithoutSegments_NELS50.pdf
 - name: "We seen 'eh' and so on: a preliminary study of three variables in the Wolfe Island English Corpus."
   date: 'January 2019'
   authors: Anastasia Riehl
@@ -82,7 +82,7 @@
   type: Talk
   event: "the 2018 CLA Annual Conference / Congrès annuel de l'ACL"
   location: 'Regina, SK'
-  link: "assets/handouts/Bjorkman_2018_PronominalTenseAndAnaphora_CLA2018.pdf"
+  link: "Bjorkman_2018_PronominalTenseAndAnaphora_CLA2018.pdf"
   linktext: slides
 - name: "Unifying <i>-ing</i> without participles."
   authors: 'Elizabeth Cowper and Dan Siddiqi'
@@ -95,14 +95,14 @@
 - name: "From homophony to unity."
   date: 'November 2017'
   authors: 'Elizabeth Cowper and Dan Siddiqi'
-  link: "assets/handouts/BjorkmanCowperSiddiqi_HomophonytoUnity_MoMOT2.pdf"
+  link: "BjorkmanCowperSiddiqi_HomophonytoUnity_MoMOT2.pdf"
   linktext: "handout"
   type: Special
   event: 'Keynote given at Mo-MOT 2 at UQAM'
   location: 'Montreal, QC'
 - name: "What CAN can and can't do."
   authors: 'with Sali Tagliamonte'
-  link: "assets/handouts/BjorkmanTagliamonte_2017_WhatCanCantDo_NELS48.pdf"
+  link: "BjorkmanTagliamonte_2017_WhatCanCantDo_NELS48.pdf"
   linktext: 'poster+references'
   date: 'October 2017'
   type: Poster
@@ -128,7 +128,7 @@
 - name: "What can explain it? The changing modals of York English"
   date: 'June 2017'
   authors: 'with Sali Tagliamonte'
-  link: "assets/handouts/BjorkmanTagliamonte_2017_WhatCanExplainIt_FWAV4.pdf"
+  link: "BjorkmanTagliamonte_2017_WhatCanExplainIt_FWAV4.pdf"
   linktext: "slides"
   type: Talk
   event: "Formal Ways of Analyzing Variation 4 (FWAV4)" 
@@ -169,14 +169,14 @@
 - name: "Indexing constraints to words: evidence from derived environment effects."
   date: 'April 2016'
   authors: 'Peter Jurgec'
-  link: "assets/handouts/BjorkmanJurgec_2016_IndexedConstraints_GLOW39.pdf"
+  link: "BjorkmanJurgec_2016_IndexedConstraints_GLOW39.pdf"
   linktext: 'poster'
   type: Poster
   event: 'GLOW 39' 
   location: 'Göttingen, Germany' 
 - name: "Grammaticalizing case: some inherent problems."
   date: 'January 2016'
-  link: "assets/handouts/Bjorkman_2016_GrammaticalizingCase_UofT.pdf"
+  link: "Bjorkman_2016_GrammaticalizingCase_UofT.pdf"
   linktext: 'handout'
   type: Special
   event: 'Invited talk at the University of Toronto'
@@ -194,7 +194,7 @@
 - name: "From times to worlds: the relational unity of perfects and evidentials."
   authors: 'Claire Halpert and Hadil Karawani'
   date: 'November 2015'
-  link: "assets/handouts/BjorkmanHalpertKarawani_2015_FromTimesToWorlds_PerfectVariation.pdf"
+  link: "BjorkmanHalpertKarawani_2015_FromTimesToWorlds_PerfectVariation.pdf"
   linktext: "slides"
   type: Talk 
   event: "the Perfect: variation workshop" 
@@ -202,7 +202,7 @@
 - name: "The Case of Aspect"
   authors: ''
   date: 'October 2015'
-  link: "assets/handouts/Bjorkman_2015_CaseofAspect_Cornell.pdf"
+  link: "Bjorkman_2015_CaseofAspect_Cornell.pdf"
   linktext: "handout"
   type: Talk 
   event: 'the Cornell workshop on Aspect'
@@ -219,7 +219,7 @@
 - name: "Illusions of transitive expletives in Middle English."
   date: 'July 2015'
   authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
-  link: "assets/handouts/CowperEtAl_2015_IllusionsOfTransitiveExpletives_ICHL22.pdf"
+  link: "CowperEtAl_2015_IllusionsOfTransitiveExpletives_ICHL22.pdf"
   linktext: "handout"
   type: Talk 
   event: 'the 22nd International Conference on Historical Linguistics'
@@ -227,7 +227,7 @@
 - name: "Where <i>there</i> is, and why."
   date: 'May 2015'
   authors: 'Elizabeth Cowper' 
-  link: "assets/handouts/BjorkmanCowper_2015_WhereThereIs_CLA2015.pdf"
+  link: "BjorkmanCowper_2015_WhereThereIs_CLA2015.pdf"
   linktext: "handout"
   type: Talk 
   event: "the 2015 CLA Annual Conference / Congrès annuel de l'ACL"
@@ -235,7 +235,7 @@
 - name: "There's no future in Old English."
   date: 'May 2015'
   authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
-  link: "assets/handouts/CowperEtAl_2015_NoFutureInOldEnglish_CLA2015.pdf"
+  link: "CowperEtAl_2015_NoFutureInOldEnglish_CLA2015.pdf"
   linktext: "handout"
   type: Talk 
   event: "the 2015 CLA Annual Conference / Congrès annuel de l'ACL"
@@ -251,7 +251,7 @@
 - name: "Upwards Agree is Superior"
   authors: 'Hedde Zeijlstra'
   date: 'March 2015'
-  link: "assets/handouts/BjorkmanZeijlstra_UpwardsAgree_Poster_WCCFL33.pdf"
+  link: "BjorkmanZeijlstra_UpwardsAgree_Poster_WCCFL33.pdf"
   linktext: "poster"
   type: Poster
   event: 'WCCFL 33' 
@@ -268,7 +268,7 @@
 - name: "Not all fake pasts are real"
   date: 'February 2015'
   authors: ''
-  link: "assets/handouts/Bjorkman_2015_NotAllFakePasts_York.pdf"
+  link: "Bjorkman_2015_NotAllFakePasts_York.pdf"
   linktext: "slides"
   type: Special
   event: 'Invited talk, presented as part of the Department of Languages, Literatures, and Linguistics Lecture Series at York University'
@@ -277,7 +277,7 @@
 - name: "Eliminating cyclicity: A reanalysis of Chamorro stress"
   date: 'January 2015'
   authors: 'Ewan Dunbar'
-  link: "assets/handouts/BjorkmanDunbar_2015_CyclicStress_Poster_LSA2015.pdf"
+  link: "BjorkmanDunbar_2015_CyclicStress_Poster_LSA2015.pdf"
   linktext: "poster" 
   type: Poster
   event: 'the 2015 LSA Annual Meeting'
@@ -285,7 +285,7 @@
 - name: "Ergative as Perfective Oblique"
   date: 'July 2014'
   authors: ''
-  link: "assets/handouts/Bjorkman_2014_ErgativeAsPerfectiveOblique_Goettingen.pdf"
+  link: "Bjorkman_2014_ErgativeAsPerfectiveOblique_Goettingen.pdf"
   linktext: "handout"
   type: Special
   event: 'Invited talk, presented at a meeting of the Syntax/Semantics Reading Group at the University of Göttingen'
@@ -294,7 +294,7 @@
 - name: "Possession and Necessity: from individuals to worlds"
   date: 'April 2014'
   authors: 'Elizabeth Cowper'
-  link: "assets/handouts/BjorkmanCowper_2014_PossessionAndNecessity_GLOW37.pdf"
+  link: "BjorkmanCowper_2014_PossessionAndNecessity_GLOW37.pdf"
   linktext: "handout"
   type: Talk
   event: "the Semantics/Morphology workshop on possession, GLOW 37 (Brussels, Belgium), and at the 2014 CLA Annual Conference / Congrès annuel d'ACL"
@@ -303,7 +303,7 @@
 - name: "Multiple Agrees?"
   date: 'January 2014'
   authors: ''
-  link: "assets/handouts/Bjorkman_2014_Agree_Poster_LSA2014.pdf"
+  link: "Bjorkman_2014_Agree_Poster_LSA2014.pdf"
   linktext: "poster" 
   type: Poster
   event: 'the 2014 LSA Annual Meeting' 
@@ -311,7 +311,7 @@
 - name: "Inflectional shells and the syntax of causative <i>have</i>"
   authors: 'Elizabeth Cowper'
   date: 'June 2013'
-  link: "assets/handouts/BjorkmanCowper_2013_InflectionalShells_Poster_CLA2013.pdf"
+  link: "BjorkmanCowper_2013_InflectionalShells_Poster_CLA2013.pdf"
   linktext: "poster" 
   type: Poster
   event: "the 2013 CLA Annual Conference / Congrès annuel de l'ACL"
@@ -319,14 +319,14 @@
 - name: "Accounting for the Absence of Coreferential Subjects in TP Coordination"
   date: 'April 2013'
   authors: ''
-  link: "assets/handouts/Bjorkman_2013_BanOnCoreference_GLOW36.pdf"
+  link: "Bjorkman_2013_BanOnCoreference_GLOW36.pdf"
   linktext: "handout"
   type: Talk
   event: 'GLOW 36'
   location: 'Lund, Sweden'
 - name: "Aspectual Ergative as Perfective Oblique"  
   date: 'January 2013'
-  link: "assets/handouts/Bjorkman_2013_AspectualErgative_Poster_LSA2013.pdf"
+  link: "Bjorkman_2013_AspectualErgative_Poster_LSA2013.pdf"
   linktext: "poster" 
   type: Poster
   event: 'the 2013 LSA Annual Meeting'
@@ -334,7 +334,7 @@
 - name: "In an imperfect world: deriving the typology of counterfactual marking"
   date: 'April 2012'
   authors: 'Claire Halpert'
-  link: "assets/handouts/BjorkmanHalpert_2012_InanImperfectWorld_ModalityOttawa.pdf"
+  link: "BjorkmanHalpert_2012_InanImperfectWorld_ModalityOttawa.pdf"
   linktext: "handout"
   type: Talk
   event: 'Modality @ OttawaU'
@@ -342,7 +342,7 @@
 - name: "In search of (im)perfection: the illusion of counterfactual aspect"
   date: 'March 2012'
   authors: 'Claire Halpert'
-  link: "assets/handouts/BjorkmanHalpert_2012_InSearchofImperfection_GLOW35.pdf"
+  link: "BjorkmanHalpert_2012_InSearchofImperfection_GLOW35.pdf"
   linktext: "handout"
   type: Talk
   event: 'GLOW 35'
@@ -350,7 +350,7 @@
 - name: "Motivating verbal inflection via auxiliary verb constructions."
   authors: ''
   date: 'January 2012'
-  link: "assets/handouts/Bjorkman_2012_MotivatingVerbalInflection_LSA2012.pdf"
+  link: "Bjorkman_2012_MotivatingVerbalInflection_LSA2012.pdf"
   linktext: "handout"
   type: Talk
   event: '2012 LSA Annual Meeting'
@@ -358,7 +358,7 @@
 - name: "In search of (im)perfection: the illusion of counterfactual aspect"
   date: 'November 2011'
   authors: 'Claire Halpert'
-  link: "assets/handouts/BjorkmanHalpert_2011_InSearchofImperfection_NELS42.pdf"
+  link: "BjorkmanHalpert_2011_InSearchofImperfection_NELS42.pdf"
   linktext: "handout"
   type: Talk
   event: 'NELS 42, University of Toronto'
@@ -366,7 +366,7 @@
 - name: "The Syntax of Auxiliaries From a Cross-linguistic Perspective"
   authors: ''
   date: 'May 2011'
-  link: "assets/handouts/Bjorkman_2011_SyntaxofAuxiliaries_CLA2011.pdf"
+  link: "Bjorkman_2011_SyntaxofAuxiliaries_CLA2011.pdf"
   linktext: "handout"
   type: Talk
   event: "the 2011 CLA Annual Conference / Congrès annuel de l'ACL"
@@ -374,14 +374,14 @@
 - name: "The Crosslinguistic Defaultness of BE"
   authors: ''
   date: 'April 2011'
-  link: "assets/handouts/Bjorkman_2011_DefaultnessofBE_Poster_WCCFL29.pdf"
+  link: "Bjorkman_2011_DefaultnessofBE_Poster_WCCFL29.pdf"
   linktext: "poster" 
   type: Poster
   event: 'WCCFL 29, University of Arizona'
   location: 'Tucson, AZ' 
 - name: "The Syntax of Inverted Conditional Antecedents."
   date: 'January 2011'
-  link: "assets/handouts/Bjorkman_2011_ConditionalInversion_handout_LSA2011.pdf"
+  link: "Bjorkman_2011_ConditionalInversion_handout_LSA2011.pdf"
   linktext: "handout"
   type: Talk
   event: 'the 2011 LSA Annual Meeting'
@@ -390,14 +390,14 @@
 - name: "Towards an Asymmetric Semantics for <i>and</i>."
   date: 'December 2010'
   authors: ''
-  link: "assets/handouts/Bjorkman_2010_AsymmetricSemantics_handout_ONLI2.pdf"
+  link: "Bjorkman_2010_AsymmetricSemantics_handout_ONLI2.pdf"
   linktext: "handout"
   event: 'On Linguistic Interfaces II, University of Ulster'
   location: 'Belfast, UK'
 - name: "A Syntactic Correlate of Semantic Asymmetries In Clausal Coordination."
   date: 'October 2010'
   authors: ''
-  link: "assets/handouts/Bjorkman_2010_SyntacticCorrelate_handout_NELS41.pdf"
+  link: "Bjorkman_2010_SyntacticCorrelate_handout_NELS41.pdf"
   linktext: "handout"
   type: Talk
   event: 'NELS 41, University of Pennsylvania'
@@ -405,7 +405,7 @@
 - name: "The Morphological Basis of Default-to-Opposite Stress in Nez Perce" 
   date: 'January 2010'
   authors: ''
-  link: "assets/handouts/Bjorkman_2010_NezPerceStress_handout_WSCLA14.pdf"
+  link: "Bjorkman_2010_NezPerceStress_handout_WSCLA14.pdf"
   linktext: "handout"
   type: Talk
   event: 'OCP 7 (Nice, France) and WSCLA 14, University of Ottawa'
@@ -413,7 +413,7 @@
 - name: "The Syntax of Syncretism" 
   date: 'November 2009'
   author: ''
-  link: "assets/handouts/Bjorkman_2009_SyntaxSyncretism_handout_NELS40.pdf"
+  link: "Bjorkman_2009_SyntaxSyncretism_handout_NELS40.pdf"
   linktext: "handout"
   type: Talk
   event: 'NELS 40, MIT'
@@ -422,14 +422,14 @@
 - name: "Uniform Exponence and Reduplication: Evidence from Kinande" 
   author: ''
   date: 'May 2009'
-  link: "assets/handouts/Bjorkman_2009_Kinande_Reduplication_handout_17mfm.pdf"
+  link: "Bjorkman_2009_Kinande_Reduplication_handout_17mfm.pdf"
   linktext: "handout"
   type: Talk
   event: 'the 17th Manchester Phonology Meeting, University of Manchester'
   location: 'Manchester, UK'
 - name: "Go Get, Come See" 
   date: 'April 2009'
-  link: "assets/handouts/Bjorkman_2009_GoVerb_handout_ECO5-09.pdf"
+  link: "Bjorkman_2009_GoVerb_handout_ECO5-09.pdf"
   linktext: "handout"
   type: Talk
   event: 'NWLC 2009, University of British Columbia'
