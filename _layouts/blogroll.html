@@ -1,0 +1,38 @@
+---
+layout: default
+---
+	<div class="left-panel">
+	<div class="sidebar">
+		<b>Recent Posts</b>
+		<ul>
+		  {% for post in site.posts limit:5 %}
+		    <li>
+		      <a href="{{ post.url }}">{{ post.title }}</a><br> ({{post.date | date: "%b %d %Y"}})
+		    </li>
+		  {% endfor %}
+		</ul>
+		
+		<b>Posts by Category</b>
+		<ul>
+			{% assign sorted_categories = site.categories | sort %}
+ 				{% for category in sorted_categories %}
+ 				{% assign c = category | first %}
+    				{% assign posts = category | last %}
+	    			<li>
+    	  			<a href="/category/{{c}}">{{c | downcase}} <span>({{ posts | size }})</span></a>
+					</li>
+				{% endfor %}    
+		</ul>
+	</div>
+	</div>
+  	<div class="center-panel">
+
+	  	<section class="content">
+	    {{ content }}
+		</section>
+	
+		{% include footer.html %}	
+    </div>  
+
+    <div class="right-panel">
+	</div>

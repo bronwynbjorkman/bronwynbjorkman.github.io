@@ -13,26 +13,28 @@ $contentwidth: 800px;
 
 $side-margin:200px;
 
+$toppad: 9em;
+
 
 
 body{
 	/*font-family: Georgia, Times, serif;*/
 	font-family: $fontstack;
-	font-size: 14px;
+	font-size: 80%;
 	font-style: normal;
 	font-weight: normal;
 	line-height: 1.6;
 	background-color: #ffffff;/*#707070;*//*347C2C;*/
 	margin: 0em;
 
-	#content {
-	padding: 12em 1em 2em 1em;
+	.content {
+	padding: $toppad 2em 2em 2em;
 	background-color: lightgray;
 	}
 	
 /*Navigation Bar*/
 
-nav{
+nav.top{
  	list-style: none;
     position: absolute;
     left: 0;
@@ -41,6 +43,7 @@ nav{
     background-color: white;
     height:100px;
     font-family: $headerfontstack;
+    z-index: 5;
  
  	ul {
   	list-style-type: none;
@@ -69,8 +72,26 @@ nav{
 	
 }
 
+div.sidebar{
+	left: 0;
+	padding: $toppad 1em 2em 1em;
+    font-family: $headerfontstack;
+    z-index: 3;
+
+ 
+ 	ul {
+  	margin: 0;
+	padding: 1em 1em 2em 1em;
+  	overflow: hidden;
+    text-align: left;
+	}
+		
+	}
+	
+
+
 	#name{
-	font-size:18pt;
+	font-size:200%;
 	color:gray;
 	a {
 	color:gray;
@@ -78,7 +99,7 @@ nav{
 	a:active {
 	color:lightgray;
 	}
-	padding-top: 3em;
+	padding-top: 2em;
 	padding-right: 4em;
 	}
 	
@@ -196,7 +217,7 @@ div#menu
 div#footer
 	{ 
 	padding:1em;
-	color: #AAAAAA;
+	color: #777777;
 	text-align: right;
 	}
 
@@ -247,17 +268,30 @@ tr
 	vertical-align: top;
 	}
 	
+td.blogdate
+	{
+	font-family: $headerfontstack;
+	color: #555555;
+	padding-top: 3px;
+	}
+	
 h1	
 	{
 	font-family: $headerfontstack;
-	font-size:18px;
+	font-size:150%;
 	}
 	
 h2
 	{
 	font-family: $headerfontstack;
 	text-align:left;
-	font-size:16px;
+	font-size:150%;
 	}
 
+strong
+	{
+	font-size: 110%;
+	font-family: $headerfontstack;
+	}
+	
 

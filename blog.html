@@ -1,7 +1,18 @@
 ---
-layout: default
-title: Blog
+layout: blogroll
+title: Recent Posts
 ---
-<h1>Blog Under Construction</h1>
 
-I'm in the process of constructing a blog. Check back eventually for content.
+<table>
+  {% for post in site.posts %}
+	<tr>
+    <td width="80px" class="blogdate">
+    {{ post.date | date: "%b %d %Y" }}
+    </td>
+    <td>
+      <strong><b><a href="{{ post.url }}">{{ post.title }}</a> </b></strong>
+      {{ post.excerpt }}
+    </td>
+	</tr>
+  {% endfor %}
+</table>
