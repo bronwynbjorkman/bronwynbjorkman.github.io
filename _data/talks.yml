@@ -412,7 +412,7 @@
   location: 'Ottawa, ON'
 - name: "The Syntax of Syncretism" 
   date: 'November 2009'
-  author: ''
+  authors: ''
   link: "Bjorkman_2009_SyntaxSyncretism_handout_NELS40.pdf"
   linktext: "handout"
   type: Talk
@@ -420,7 +420,7 @@
   location: 'Cambridge, MA'
   note: 'a similar talk was presented at GLS 2010, Georgetown University in Februrary 2010'  
 - name: "Uniform Exponence and Reduplication: Evidence from Kinande" 
-  author: ''
+  authors: ''
   date: 'May 2009'
   link: "Bjorkman_2009_Kinande_Reduplication_handout_17mfm.pdf"
   linktext: "handout"
@@ -428,6 +428,7 @@
   event: 'the 17th Manchester Phonology Meeting, University of Manchester'
   location: 'Manchester, UK'
 - name: "Go Get, Come See" 
+  authors: ''
   date: 'April 2009'
   link: "Bjorkman_2009_GoVerb_handout_ECO5-09.pdf"
   linktext: "handout"
