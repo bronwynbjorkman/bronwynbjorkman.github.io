@@ -181,14 +181,42 @@ div.column{
 	padding: 1em;
 	}
 
+div.featuredimgbanner{
+  width: fit;
+  top: 0pt;
+  left: 0pt;
+  margin-right: -2em;
+  margin-left: -2em;
+  margin-top: -2em;
+  margin-bottom: 0em;
+  background-size: cover;
+  background-position: center center;
+  background-color: crimson;
+  height: 12em;
+  opacity: 80%;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 2px;
+	}
+	
+div.featuredimgthumb
+	{
+	background-size: 200px;
+	width: 80px;
+	height: 80px;
+	margin-top: 5px;
+	border-color: gray;
+	border-style: solid;
+	border-width: 3px;
+	background-position: center center;
+	}
+
 div#header
 	{
 	text-align:left;
-	/*width: 500px;*/
-	margin-left:auto;
-	margin-right:0px;
+	width: inherit;
 	margin-top:0px;
-	padding:10px;
+	padding:0px;
 	color: #222222;
 	border-color:#003300;
 	background-color:#f8f8f8;
@@ -268,11 +296,10 @@ tr
 	vertical-align: top;
 	}
 	
-td.blogdate
+span.blogdate
 	{
 	font-family: $headerfontstack;
 	color: #555555;
-	padding-top: 3px;
 	}
 	
 h1	

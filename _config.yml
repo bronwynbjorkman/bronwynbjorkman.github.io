@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
    title: Bronwyn Bjorkman
-   email: bronwyn [dot] bjorkman [at] queensu [dot] ca
+   email: bronwyn.bjorkman [at] queensu.ca
    #description: >- # this means to ignore newlines until "baseurl:"
    #  I'm an assistant professor of linguistics at Queen's University. 
    #  My research is mostly about verbs, and related issues of tense and aspect, but 
@@ -33,7 +33,7 @@
    #
    
    collections:
-        category:
+        tag:
             output: true
 
 # Build settings

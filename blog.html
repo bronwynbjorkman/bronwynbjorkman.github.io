@@ -6,11 +6,15 @@ title: Recent Posts
 <table>
   {% for post in site.posts %}
 	<tr>
-    <td width="80px" class="blogdate">
-    {{ post.date | date: "%b %d %Y" }}
+    <td width="80px">
+    {% if post.featured-img and post.featured-img!='' %}
+    <div class="featuredimgthumb" style="background-image: url('{{ post.featured-img }}');">
+    {% endif %}
     </td>
     <td>
-      <strong><b><a href="{{ post.url }}">{{ post.title }}</a> </b></strong>
+      <strong><b><a href="{{ post.url }}">{{ post.title }}</a> </b></strong><br>
+     <span class="blogdate">     {{ post.date | date: "%b %d %Y" }}</span>
+    
       {{ post.excerpt }}
     </td>
 	</tr>

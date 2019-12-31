@@ -1,5 +1,5 @@
 ---
 layout: category
 tag: Linguistics
-permalink: "/category/Linguistics"
+permalink: "/tag/Linguistics"
 ---

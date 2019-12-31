@@ -2,8 +2,9 @@
 layout: post
 title:  "Thoughts on webcasting a linguistics conference"
 date:   2019-06-30
-category: Resources
+tag: Resources
 author: Bronwyn
+featured-img: /assets/images/online.jpg
 ---
 
 While it is becoming more common for conferences in some fields to be webcast in some form, this is still fairly unusual for linguistics conferences. To my knowledge (writing as of June 2019), none of the major conferences in theoretical linguistics (LSA, NELS, WCCFL, GLOW, etc.) has made remote attendance or participation possible. 

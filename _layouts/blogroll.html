@@ -12,14 +12,14 @@ layout: default
 		  {% endfor %}
 		</ul>
 		
-		<b>Posts by Category</b>
+		<b>Posts by Tags</b>
 		<ul>
-			{% assign sorted_categories = site.categories | sort %}
- 				{% for category in sorted_categories %}
- 				{% assign c = category | first %}
-    				{% assign posts = category | last %}
+			{% assign sorted_tags = site.tags | sort %}
+ 				{% for tag in sorted_tags %}
+ 				{% assign t = tag | first %}
+    				{% assign posts = tag | last %}
 	    			<li>
-    	  			<a href="/category/{{c}}">{{c | downcase}} <span>({{ posts | size }})</span></a>
+    	  			<a href="/tag/{{t}}">{{t | downcase}} <span>({{ posts | size }})</span></a>
 					</li>
 				{% endfor %}    
 		</ul>
