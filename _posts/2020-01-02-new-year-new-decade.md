@@ -4,7 +4,7 @@ title:  "New year, new decade, new website + blog"
 date:   2020-01-02
 tags: [Meta]
 author: Bronwyn
-featured-img: /assets/images/pensandcomputer.jpg
+featured-img: /assets/images/januaryheader.jpg
 ---
 
 Welcome to my new website + blog! Sometimes I get the itch to remember how much I've forgotten about how CSS works, and a few days later the result is something like this: an entirely static website + blog, created with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub](https://github.com/). 
