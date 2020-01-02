@@ -406,3 +406,8 @@ figure.image{
 	text-align: center;
 	width: 50%;
 	}
+	
+img.scaled{
+	object-fit: contain;
+	width: 100%;
+	}
