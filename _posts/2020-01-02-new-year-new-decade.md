@@ -7,7 +7,7 @@ author: Bronwyn
 featured-img: /assets/images/januaryheader.jpg
 ---
 
-Welcome to my new website + blog! Sometimes I get the itch to remember how much I've forgotten about how CSS works, and a few days later the result is something like this: an entirely static website + blog, created with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub](https://github.com/). 
+Welcome to my new website + blog! Sometimes I get the itch to remember how much I've forgotten about how CSS works, and a few days later the result is something like this: an (almost) entirely static website + blog, created with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub](https://github.com/). 
 
 In actual fact, as anyone who follows me on Twitter may have noticed, I started publicly musing about registering a personal domain and moving my website off university hosting some time ago. In the intervening months I spent more time than it deserved considering the optics of .com vs .net vs .org (thanks to everyone who was willing to talk about this with me), as well as paid web hosting vs ad-supported blogs. 
 
