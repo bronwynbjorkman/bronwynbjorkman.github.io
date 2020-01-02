@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on webcasting a linguistics conference"
 date:   2019-06-30
-tag: Resources
+tags: Resources
 author: Bronwyn
 featured-img: /assets/images/online.jpg
 ---

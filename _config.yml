@@ -20,13 +20,14 @@
 
    title: Bronwyn Bjorkman
    email: bronwyn.bjorkman [at] queensu.ca
+   url: "http://bronwynbjorkman.net"
    #description: >- # this means to ignore newlines until "baseurl:"
-   #  I'm an assistant professor of linguistics at Queen's University. 
-   #  My research is mostly about verbs, and related issues of tense and aspect, but 
-   #  I also have active research projects investigating the interaction of morphology 
-   #  and phonology, and keep finding myself accidentally working on topics relating to 
-   #  nominals.
-   #baseurl: "" # the subpath of your site, e.g. /blog
+#     I'm an assistant professor of linguistics at Queen's University. 
+#     My research is mostly about verbs, and related issues of tense and aspect, but 
+#     I also have active research projects investigating the interaction of morphology 
+#     and phonology, and keep finding myself accidentally working on topics relating to 
+#     nominals.
+#   #baseurl: "" # the subpath of your site, e.g. /blog
    #url: "" # the base hostname & protocol for your site, e.g. http://example.com
    ##twitter_username: jekyllrb
    ##github_username:  jekyll

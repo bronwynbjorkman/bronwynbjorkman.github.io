@@ -3,20 +3,18 @@ layout: blogroll
 title: Recent Posts
 ---
 
-<table>
   {% for post in site.posts %}
-	<tr>
-    <td width="80px">
-    {% if post.featured-img and post.featured-img!='' %}
-    <div class="featuredimgthumb" style="background-image: url('{{ post.featured-img }}');">
-    {% endif %}
-    </td>
-    <td>
-      <strong><b><a href="{{ post.url }}">{{ post.title }}</a> </b></strong><br>
-     <span class="blogdate">     {{ post.date | date: "%b %d %Y" }}</span>
+	{% if post.featured-img and post.featured-img!='' %}
+	<div class="listbanner" style="background-image: url('{{ post.featured-img }}');">
+	</div>
+	{% endif %}
+     <h1><a href="{{ post.url }}">{{ post.title }}</a> </h1>
+     <span class="blogdate">{{ post.date | date: "%b %d %Y"}} | 
+		{% for tag in post.tags %}
+		<a href="/tag/{{ tag }}">#{{ tag | downcase }} </a>
+		{% endfor %}
+		</span>
     
-      {{ post.excerpt }}
-    </td>
-	</tr>
+      {{ post.excerpt }} [<a href="{{ post.url }}">more</a>]
+      <p>
   {% endfor %}
-</table>
