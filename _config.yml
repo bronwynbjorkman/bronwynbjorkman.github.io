@@ -37,6 +37,8 @@
         tag:
             output: true
 
+   commentbox: id: 5763737512312832-proj
+
 # Build settings
   theme: minima
   plugins:

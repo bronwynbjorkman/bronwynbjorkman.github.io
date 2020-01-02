@@ -11,4 +11,10 @@ layout: blogroll
 				<a href="/tag/{{ tag }}">#{{ tag | downcase }} </a>
 			{% endfor %}
 		
+		<div>		
 	    {{ content }}
+		</div>
+
+		{%- if site.commentbox.id -%}
+			{%- include commentbox.html -%}
+		{%- endif -%}"

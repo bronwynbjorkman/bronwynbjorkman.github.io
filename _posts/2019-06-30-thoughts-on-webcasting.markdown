@@ -30,9 +30,7 @@ In June 2019 I organized the conference <a href="https://educ.queensu.ca/they201
 
 Rather than go through our local IT services, we ended up going with what I call the "shoestring webcast" option. This involved buying a webcam ($70) and getting a one-month <a href="https://zoom.us">Zoom</a> membership ($14.95).<sup><a href="#one">[1]</a></sup> I happened to already have a tripod; if I hadn't, that would have been an extra $10-$20. 
 
-<img src="/assets/images/online.jpg" alt="A photo of a cheap webcam and tripod, all you need to webcast a conference" width="50%">
-
-*All you need to webcast a conference...*
+{% include image.html src="/assets/images/online.jpg" alt="A cheap webcam and tripod, all you need to webcast a conference" %}
 
 We set up a separate Zoom "meeting" for each session of the conference, and emailed the links to all registered participants. Then during the conference itself, someone was in charge of starting the "meeting" and monitoring the webcam.
 

@@ -381,6 +381,7 @@ span.contact
 h1	
 	{
 	font-family: $headerfontstack;
+	color: darkgray;
 	font-size:28px;
 	}
 	
@@ -388,6 +389,7 @@ h2
 	{
 	font-family: $headerfontstack;
 	text-align:left;
+	color: darkgray;
 	font-size:24px;
 	}
 
@@ -398,4 +400,9 @@ strong
 	font-family: $headerfontstack;
 	}
 	
-
+figure.image{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 50%;
+	}
