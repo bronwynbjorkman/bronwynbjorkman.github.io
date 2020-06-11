@@ -4,7 +4,7 @@ title:  "On virtual events and community"
 date:   2020-06-10
 tags:  Resources 
 author: Bronwyn
-featured-img: /assets/images/webcam.jpg
+featured-img: /assets/images/social-media.jpg
 ---
 
 ### <i>Or</i> thoughts on the whys and hows of online conferences
