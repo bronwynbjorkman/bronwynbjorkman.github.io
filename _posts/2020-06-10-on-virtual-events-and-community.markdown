@@ -144,7 +144,7 @@ And some tips I couldn't figure out how to phrase as questions:
 
 * Create a runbook that explains exactly how everything that needs to be done will work. Assume that whoever set things up will be unable to attend on zero notice: the runbook should be detailed enough that someone else could follow it and still make everything work (in other words: when you forget what you decided to do, you can just go back and read it). Keep it somewhere online, because it will probably be revised during practice calls. 
 
-    * Here's the runbook I wrote for the CLA, though it's specific to talk sessions and so doesn't cover how poster sessions or special events worked. 
+    * Here's [the runbook I wrote for the CLA]({% link assets/papers/CLA_2020_Runbook_Talks.pdf %}), though it's specific to talk sessions and so doesn't cover how poster sessions or special events worked. 
 
 
 Finally, if you are thinking about planning a virtual event—whether because in-person gatherings are a bad idea due to a pandemic, or just because you want something cheap and accessible—I would be super interested to hear from you, whether by email or in the comments here! And I am happy to share my own experiences at greater length one-on-one. 
