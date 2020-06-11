@@ -17,7 +17,7 @@ As anyone who tried to have a conversation with me recently would have learned, 
 
 These were very different events, but a lot of the considerations involved in moving them online were the same. Both went very smoothly, with no catastrophic technical failures, and I had a great deal of fun at both of them. 
 
-I wanted to write up some of my experiences with both partly as a resource for people who are considering their options for making certain kinds of events virtual, but also as a commentary on why one would bother to do so. And this is particularly timely, because if you applied to NELS 51 you might have seen this morning that NELS will be virtual this year—I am on the organizing committee in an advisory capacity, which is now specifically advising about the practicalities of going virtual. 
+I wanted to write up some of my experiences with both partly as a resource for people who are considering their options for making certain kinds of events virtual, but also as a commentary on why one would bother to do so. And this is particularly timely, because if you applied to <a href="https://sites.grenadine.uqam.ca/sites/linguistique/en/nels51">NELS 51</a> you might have seen this morning that NELS will be virtual this year—I am on the organizing committee in an advisory capacity, which is now specifically advising about the practicalities of going virtual. 
 
 ### Why go online? 
 
@@ -111,7 +111,7 @@ There are probably details I've overlooked, and certainly other events have been
 
 * How will audiences interact with scheduled presentations? 
 
-    * WisCon: Audience was *not* on the video call with panelists, and were instead watching via a live YouTube stream). Questions were asked via panel-specific channels on Discord, and were relayed to panelists by the technical coordinator of the video call (not the moderator). Other content (readings, academic presentations) was prerecorded, with the opportunity for live discussion at a scheduled time via Discord.
+    * WisCon: Audience was *not* on the video call with panelists, and were instead watching via a live YouTube stream). Questions were asked via panel-specific channels on Discord, and were relayed to the moderator by the technical coordinator of the video call. Other content (readings, academic presentations) was prerecorded, with the opportunity for live discussion at a scheduled time via Discord.
     * CLA: Audience was *on* the video call with talk presenters, indicated that they had questions via the call's chat function (or could type full questions in the chat, and have them read aloud). Posters available online, with an optional video/audio talkthrough; questions could be submitted via a comment form, but poster presenters could also host a video call to interact with people live. 
     
 * Who will take questions? 
