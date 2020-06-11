@@ -22,7 +22,7 @@ But precisely because conferences play such an important role in our field, I th
 
 For these reasons, I think it behooves all of us to start thinking about ways of making conferences more accessible, not only in our physical spaces but in terms of making remote participation both possible and meaningful. 
 
-**But isn't it super difficult to webcast a conference?**
+### But isn't it super difficult to webcast a conference?
 
 Good news! It turns out that it's actually pretty easy! 
 
@@ -40,13 +40,13 @@ A more technologically sophisticated setup (with a better camera, or just a long
 
 (Another technologically dumb solution would have been to load the slides on the computer hosting the Zoom meeting, enable screensharing from there, and have the person monitoring the webcam also advance the slides along with the speaker.)
 
-**So the entire conference is online in perpetuity?**
+### So the entire conference is online in perpetuity?
 
-**No.** We made a conscious decision <i>not</i> to record any of the talks, so that the webcast was real-time only. This was mostly to avoid having to get permission to record from all of the speakers&mdash;which is something you would need if you did want to record&mdash;and to also avoid the potential logistics of recording some-but-not-all talks. 
+<b>No.</b> We made a conscious decision <i>not</i> to record any of the talks, so that the webcast was real-time only. This was mostly to avoid having to get permission to record from all of the speakers&mdash;which is something you would need if you did want to record&mdash;and to also avoid the potential logistics of recording some-but-not-all talks. 
 
 We got a lot of questions about this from people who had registered for remote participation, so in future I would make sure to emphasize it in registration materials. 
 
-**So that's it?**
+### So that's it?
 
 This is everything that we did for the webcast itself. The one remaining piece is to make remote participation <b>meaningful</b>&mdash;to try to give remote attendees some of the opportunity for casual conversation and interaction that makes conferences so valuable to attend. 
 
@@ -54,7 +54,7 @@ For this we did two things. First, we set up a discussion forum for the conferen
 
 We also allowed remote attendees to ask questions after each talk. These had to be submitted in writing (via Slack or the Zoom chat function), and were simply read aloud verbatim by the person monitoring the webcam.<sup><a href="#two">[2]</a></sup> 
 
-**And that's it!**
+### And that's it!
 
 The feedback we got after THEY 2019 suggests that remote attendees found even our shoestring webcast a valuable means of conference participation. There is certainly lots of room for improvement, but if you're interested in making a linguistics conference remotely accessible using some of these tools, please feel free to get in touch if I can offer any advice or support! 
 

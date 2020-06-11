@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Libre+Baskerville|Raleway|Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Libre+Baskerville|Raleway|Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
 
 // $maincolor: crimson;
@@ -30,12 +30,12 @@ $side-margin:100px;
 body{
 	/*font-family: Georgia, Times, serif;*/
 	font-family: $fontstack;
-	font-size: 80%;
+	font-size: 90%;
 	font-style: normal;
-	font-weight: normal;
 	line-height: 1.6;
 	background-color: #ffffff;/*#707070;*//*347C2C;*/
 	margin: 0px;
+
 
 	.content {
 	padding: $navheight + $buffer 2em 2em 2em;
@@ -47,7 +47,8 @@ body{
 	.splash {
 	padding: $navheight + $buffer 2em 2em 2em; 
 	}
-	
+
+
 /*Navigation Bar*/
 
 nav.top{
@@ -116,12 +117,12 @@ div.sidebar{
 div.blogcontent{
  	margin: 0px;
 	padding: $navheight + $buffer 2em 2em 2em;
-    font-family: $fontstack;
 	width: 75%;
  	float: right;
  	border-left: 2px solid $backgroundcolor;
 	border-bottom: 2px solid $backgroundcolor;
-
+	
+	
 	}
 	
 
@@ -382,7 +383,7 @@ h1
 	{
 	font-family: $headerfontstack;
 	color: gray;
-	font-size:28px;
+	font-size:32px;
 	}
 	
 h2
@@ -390,14 +391,21 @@ h2
 	font-family: $headerfontstack;
 	text-align:left;
 	color: gray;
+	font-size:28px;
+	}
+
+h3
+	{
+	font-family: $headerfontstack;
+	text-align:left;
+	color: $maincolor;
 	font-size:24px;
 	}
 
 strong
 	{
-	font-size: 18px;
-	color: $maincolor;
-	font-family: $headerfontstack;
+	color: inherit;
+	font-weight: bold;
 	}
 	
 figure.image{
