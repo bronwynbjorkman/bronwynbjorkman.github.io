@@ -74,7 +74,7 @@ If I get another chance to help organize a virtual conference (\*cough\*NELS\*co
 
 This post has been fairly high-level in its discussion of the practical details of running a virtual conference. I thought it would be helpful to end with something more concrete, a kind of list to work through, so I've put together a list of questions that need to be answered when organizing a virtual event, with some of the answers we reached at events I've been involved with.
 
-There are probably details I've overlooked, and certainly other events have been organized different, but hopefully this list will suggest some points you might not have thought about otherwise. 
+There are probably details I've overlooked, and certainly other events have been organized differently, but hopefully this list will suggest some points you might not have thought about otherwise. 
 
 * Are you pivoting a previously-planned in-person event, or planning a virtual event from the ground up? Is the event purely virtual, or hybrid virtual and in-person? 
 

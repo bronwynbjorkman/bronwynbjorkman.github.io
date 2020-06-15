@@ -1,5 +1,10 @@
 - authors: ''
   type: manuscript
+  year: 'revising'
+  note: 'chapter to appear in Oxford Handbook of Distributed Morphology, eds. Artemis Alexiadou, Heidi Harley, and Ruth Kramer'
+  title: "Verbal Inflection in Distributed Morphology"
+- authors: ''
+  type: manuscript
   title: 'Against licensing in Sequence of Tense (squib)'
   year: 'submitted'
   note: "submitted to Canadian Journal of Linguistics/Revue canadienne de linguistique, October 2019"
@@ -8,13 +13,13 @@
 - authors: ''
   type: manuscript
   title: "What's going on with <i>you guys</i>?"
-  note: 'submitted to Snippets, October 2019'
-  year: 'submitted'
+  note: 'being revised, Spring 2020'
+  year: 'revising'
 - authors: 'Elizabeth Cowper and Dan Siddiqi'
   type: manuscript
   title: 'Unifying -ing without participles'
-  year: 'in revision'
-  note: 'being revised, as of Nov 2019'
+  year: 'submitted'
+  note: 'submitted to Morphology, March 2020'
 - authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
   type: collection
   venue: 'Syntactic Features and the Limits of Syntactic Change'
