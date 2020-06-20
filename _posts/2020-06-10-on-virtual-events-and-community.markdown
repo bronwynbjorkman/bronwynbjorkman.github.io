@@ -15,6 +15,8 @@ For a while I've been thinking about trying to start posting more regularly. I h
 
 As anyone who tried to have a conversation with me recently would have learned, perhaps to their regret, I spent most of May involved in organizing two virtual events: <a href="http://wiscon.net/">WisCon</a>, a feminist science fiction convention, and the <a href="http://cla-acl.ca/">CLA annual conference</a>, a normal academic conference that usually takes place as part of the <a href="http://congress2020.ca/">Congress of Social Sciences and Humanities in Canada</a>. 
 
+[**ETA 06/20:** For WisCONline I was *not* a member of the Online Con department, though I participated in setting up and running online infrastructure for the convention. For the 2020 CLA meeting I chaired the Ad-Hoc Technical Committee tasked with coordinating the pivot to an online format.]
+
 These were very different events, but a lot of the considerations involved in moving them online were the same. Both went very smoothly, with no catastrophic technical failures, and I had a great deal of fun at both of them. 
 
 I wanted to write up some of my experiences with both partly as a resource for people who are considering their options for making certain kinds of events virtual, but also as a commentary on why one would bother to do so. And this is particularly timely, because if you applied to <a href="https://sites.grenadine.uqam.ca/sites/linguistique/en/nels51">NELS 51</a> you might have seen this morning that NELS will be virtual this year—I am on the organizing committee in an advisory capacity, which is now specifically advising about the practicalities of going virtual. 
