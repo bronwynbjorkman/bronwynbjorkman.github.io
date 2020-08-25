@@ -2,6 +2,7 @@
 layout: post
 title:  "How do you solve a problem like 'you guys'?"
 tags: [ Linguistics ]
+date: 2020-08-25 12:00
 author: Bronwyn
 featured-img: /assets/images/line-up.jpg
 ---
