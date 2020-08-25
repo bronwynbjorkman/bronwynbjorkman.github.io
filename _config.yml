@@ -31,8 +31,8 @@
    ##github_username:  jekyll
    #
 
-   timezone: America/Toronto
-   
+   timezone: 'America/Toronto'
+
    collections:
         tag:
             output: true

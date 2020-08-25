@@ -2,7 +2,7 @@
 layout: post
 title:  "Figuring 'you guys' out"
 tags: [ Linguistics ]
-date: 2020-08-25
+date: 2020-08-25 12:00:00 -0400
 author: Bronwyn
 featured-img: /assets/images/line-up.jpg
 ---
