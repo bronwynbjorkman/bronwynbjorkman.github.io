@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "How do you solve a problem like 'you guys'?"
+title:  "Figuring 'you guys' out"
 tags: [ Linguistics ]
-date: 2020-08-25 12:00
+date: 2020-08-25
 author: Bronwyn
 featured-img: /assets/images/line-up.jpg
 ---
 
 <!--[Originally written on September 17, 2018, in my green bujo, as a draft post for the hypothetical "Social Justice Warrior Language Log" blog that never got off the ground]-->
-
 
 Contemporary "standard" English famously lacks a distinction between singular and plural in the second person, but almost as famously, "non-standard" varieties of English are forever innovating new second person plural pronouns---<i>y'all</i>, <i>yinz</i>, <i>yous</i>, and similar---or else simply retain singular <i>thou</i>. All of these moves address an ambiguity that does exist in the standard pronoun inventory, though one that frankly doesn't cause as much confusion as we might have expected.
 
@@ -139,4 +138,4 @@ Amy Rose Deal has a short [article in Snippets](https://www.ledonline.it/snippet
 
 I wrote the first draft of this post in September 2018, as a potential contribution to a blog that never got off the ground. In 2019 I gave part of it as a talk to an undergraduate audience, and drafted a version of it for submission to <i>Snippets</i>. After ages procrastinating on a few requested revisions, I ultimately decided that maybe what I wanted to say about *you guys* would work best as a blog post, so here we are. If you're interested in citing this post, [here are instructions on citing a blog post in APA](https://blog.apastyle.org/apastyle/2016/04/how-to-cite-a-blog-post-in-apa-style.html). It would appear as:
 
-* Bjorkman, Bronwyn. ({{ page.date | date: '%Y, %B %d'}}). How do you solve a problem like *you guys*? [Blog post]. Retrieved from {{ site.url }}{{ page.url }}.
+* Bjorkman, Bronwyn. ({{ page.date | date: '%Y, %B %d'}}). Figuring 'you guys' out [Blog post]. Retrieved from {{ site.url }}{{ page.url }}.
