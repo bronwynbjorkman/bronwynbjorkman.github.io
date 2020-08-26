@@ -11,7 +11,7 @@ featured-img: /assets/images/line-up.jpg
 
 Contemporary "standard" English famously lacks a distinction between singular and plural in the second person, but almost as famously, "non-standard" varieties of English are forever innovating new second person plural pronouns---<i>y'all</i>, <i>yinz</i>, <i>yous</i>, and similar---or else simply retain singular <i>thou</i>. All of these moves address an ambiguity that does exist in the standard pronoun inventory, though one that frankly doesn't cause as much confusion as we might have expected.
 
-In a research meeting sometime in 2017, as an aside to a different topic, Dan Siddiqi once suggested that all (or nearly all) English speakers have a way to express a singular-plural distinction in the second person, at least in casual speech, and he suggested further that in for many people the plural second person pronoun is *you guys*. I protested at the time, claiming that even at my most colloquial I genuinely had no second person pronoun other than plain *you*, and though I used *you guys* it definitely wasn't a *pronoun*.
+In a research meeting sometime in 2017, as an aside to a different topic, [Dan Siddiqi](https://carleton.ca/slals/people/siddiqi-daniel/) once suggested that all (or nearly all) English speakers have a way to express a singular-plural distinction in the second person, at least in casual speech, and he suggested further that in for many people the plural second person pronoun is *you guys*. I protested at the time, claiming that even at my most colloquial I genuinely had no second person pronoun other than plain *you*, and though I used *you guys* it definitely wasn't a *pronoun*.
 
 But within a couple weeks I was forced to admit that I had been wrong, when I caught myself (as you do as a linguist) producing the possessive form *your guys's*.
 
@@ -46,7 +46,7 @@ Pronouns, however, can only **precede** the particle (unless the pronoun is heav
 
 > (5) \*We looked up **them**. / We looked **them** up.
 
-If *you guys* were a regular English pronoun, we would expect it to act like *you* in (5). Instead, though, *you guys* acts like the full noun phrases in (3) and (4), being able to either precede or follow a particle:
+If *you guys* were a regular English pronoun, we would expect it to act like *them* in (5). Instead, though, *you guys* acts like the full noun phrases in (3) and (4), being able to either precede or follow a particle:
 
 > (6) We looked up **you guys**. / We looked **you guys** up.
 
@@ -86,13 +86,15 @@ Unlike other pronouns, though, *you guys* doesn't get better if the second insta
 
 So to sum up, *you guys* looks like an English pronoun (or at least not like an ordinary noun phrase) in its irregular possessive morphology and in allowing bound variable interpretations, but unlike a pronoun in its position with verb particles and in resisting repetition.
 
+*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggests this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further. 
+
 Because this is a blog post and not an academic article, I don't have to give you a worked-out analysis that resolves this conflict. What I'll say is that it seems plausible that *you guys* is a form of emphatic strong pronoun, in some sense of "emphatic" and "strong" that I would be very interested to see someone else define.
 
 ### Does it matter if *you guys* is a pronoun?
 
 In one way, the question of whether *you guys* is a pronoun or not doesn't matter except as an interesting intellectual exercise. But in another way, this question provides context for another one, about which people get quite exercised: whether *you guys* perpetuates the idea that masculine is the default, and so is something we should avoid using.
 
-I can report that people get quite annoyed, sometimes even angry, about *you guys*. If that describes you, and you are reading this blog post, then first of all: thank you for reading this far! Even though I think the evidence showss that *you guys* is genuinely a gender-neutral second person pronoun for some English speakers, I don't think that by itself is an argument that nobody should get angry about it.
+I can report that people get quite annoyed, sometimes even angry, about *you guys*. If that describes you, and you are reading this blog post, then first of all: thank you for reading this far! Even though I think the evidence shows that *you guys* is genuinely a gender-neutral second person pronoun for some English speakers, I don't think that by itself is an argument that nobody should get angry about it.
 
 The argument that *you guys* is gendered is very straightforward: the noun *guys* is right there, and the noun *guys* is gender specific, therefore *you guys* is too.
 
