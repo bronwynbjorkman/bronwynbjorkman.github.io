@@ -86,9 +86,9 @@ Unlike other pronouns, though, *you guys* doesn't get better if the second insta
 
 So to sum up, *you guys* looks like an English pronoun (or at least not like an ordinary noun phrase) in its irregular possessive morphology and in allowing bound variable interpretations, but unlike a pronoun in its position with verb particles and in resisting repetition.
 
-*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggests this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further.
-
 Because this is a blog post and not an academic article, I don't have to give you a worked-out analysis that resolves this conflict. What I'll say is that it seems plausible that *you guys* is a form of emphatic strong pronoun, in some sense of "emphatic" and "strong" that I would be very interested to see someone else define.
+
+*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggested this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further. 
 
 ### Does it matter if *you guys* is a pronoun?
 
