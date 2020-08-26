@@ -86,7 +86,7 @@ Unlike other pronouns, though, *you guys* doesn't get better if the second insta
 
 So to sum up, *you guys* looks like an English pronoun (or at least not like an ordinary noun phrase) in its irregular possessive morphology and in allowing bound variable interpretations, but unlike a pronoun in its position with verb particles and in resisting repetition.
 
-*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggests this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further. 
+*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggests this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further.
 
 Because this is a blog post and not an academic article, I don't have to give you a worked-out analysis that resolves this conflict. What I'll say is that it seems plausible that *you guys* is a form of emphatic strong pronoun, in some sense of "emphatic" and "strong" that I would be very interested to see someone else define.
 
@@ -98,7 +98,7 @@ I can report that people get quite annoyed, sometimes even angry, about *you guy
 
 The argument that *you guys* is gendered is very straightforward: the noun *guys* is right there, and the noun *guys* is gender specific, therefore *you guys* is too.
 
-Now, if *you guys* is properly treated as a pronoun, it's less obvious that [gajz] is necessarily the noun. All the same, I think most *you guys* users would probably agree that it contains "guys" (compare "should of" and uncertainty about how to spell "use(d) to", which suggest that people don't see these as containing "have" or a past tense, respectively), the above-noted variant spelling "you guise" aside.
+Now, if *you guys* is properly treated as a pronoun, it's less obvious that [gajz] is necessarily the noun. All the same, I think most *you guys* users would probably agree that it contains "guys" (compare "should of" and uncertainty about how to spell "use(d) to", which suggest that people don't see these as containing "have" or a past tense, respectively)—the above-noted variant spelling "you guise" aside.
 
 But while the properties of a phrase are usually determined by the properties of the words inside that phrase, that isn't always the case. It can be false that I went anywhere but true that I went to sleep; no liquid receptacles need be overturned if I kick the bucket.
 
@@ -110,7 +110,7 @@ Finally, *you guys* itself. I know for a fact that I frequently use this to refe
 
 The use of *you guys* to refer to groups that contain no individuals who could be identified as *the guy* demonstrates very clearly that for speakers like me—though not speakers who don't use *you guys* this way—*you guys* does not inherit the masculine denotation of the noun *guy* as a matter of grammar. It is a trickier question whether it might nonetheless bias a masculine interpretation, or contribute to a view of men as "default" persons, but for that I think we would need as-yet-nonexistent psycholinguistic results.
 
-Nonetheless, I know that *you guys* does strike many non-masculine English speakers as gender specific, because several women and nonbinary people of my aquaintence *do* twitch if it's applied to groups they're in. So what to do?
+Nonetheless, I know that *you guys* does strike many non-masculine English speakers as gender specific, because several women and nonbinary people of my acquaintance *do* twitch if it's applied to groups they're in. So what to do?
 
 For myself, the decision about whether to change a particular aspect of my speech boils down to two considerations:
 
