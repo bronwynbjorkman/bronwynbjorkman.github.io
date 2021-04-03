@@ -1,9 +1,17 @@
-- name: 'TBD'
+- name: 'When syncretism can (and can’t) fix feature mismatches'
   authors: ''
-  date: 'April 2021'
+  date: 'March 19 2021'
   type: Talk
   event: 'Princeton Symposium on Syntactic Theory (PSST)'
-  location: 'Princeton, NJ'
+  location: 'Princeton, NJ (but online)'
+  linktext: 'handout'
+  link: 'Bjorkman_2021_WhySyncretismCanAndCant_PSST2021.pdf'
+- name: 'How syntax avoids conflict, and how morphology (sometimes) resolves it'
+  authors: ''
+  date: 'February 26 2021'
+  type: Talk
+  event: 'NYU Syntax Brown Bag'
+  location: 'New York, NY (but online)'
   linktext: ''
   link: ''
 - name: 'Realizing Syntax'
@@ -111,9 +119,9 @@
   location: 'Reykjavik, Iceland'
 - name: "Person and deixis in Heiltsuk pronouns."
   date: 'September 2017'
-  authors: 'Elizabeth Cowper, Daniel Currie Hall, and Andrew Peters' 
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, and Andrew Peters'
   type: Special
-  event: Invited talk at the Manitoba Workshop on Person 
+  event: Invited talk at the Manitoba Workshop on Person
   location: 'Winnipeg, Manitoba'
   link: ''
   linktext: ''
@@ -132,12 +140,12 @@
   link: "BjorkmanTagliamonte_2017_WhatCanExplainIt_FWAV4.pdf"
   linktext: "slides"
   type: Talk
-  event: "Formal Ways of Analyzing Variation 4 (FWAV4)" 
+  event: "Formal Ways of Analyzing Variation 4 (FWAV4)"
   location: 'York, UK'
 - name: "Indexation to stems and words: accounting for non-local morphophonological effects."
   date: 'March 2017'
   authors: 'Peter Jurgec'
-  type: Talk 
+  type: Talk
   event: "the 2017 Montreal-Ottawa-Toronto Phonology Workshop"
   location: 'Montreal, QC'
   link: ''
@@ -153,7 +161,7 @@
 - name: "The inherent problem of modal subjects."
   date: 'November 2016'
   authors: ''
-  type: Talk 
+  type: Talk
   event: 'Mo-MOT 1 at Carleton University'
   location: 'Ottawa, ON'
   link: ''
@@ -161,7 +169,7 @@
 - name: "Building imperfect counterfactuals."
   date: 'April 2016'
   authors: ''
-  type: Talk 
+  type: Talk
   event: 'the Western Michigan Workshop on Aspect and Modality'
   location: 'Kalamazoo, MI'
   note: 'A version of this talk was also presented at the 2016 Dog Days of Syntax workshop at UofT.'
@@ -173,8 +181,8 @@
   link: "BjorkmanJurgec_2016_IndexedConstraints_GLOW39.pdf"
   linktext: 'poster'
   type: Poster
-  event: 'GLOW 39' 
-  location: 'Göttingen, Germany' 
+  event: 'GLOW 39'
+  location: 'Göttingen, Germany'
 - name: "Grammaticalizing case: some inherent problems."
   date: 'January 2016'
   link: "Bjorkman_2016_GrammaticalizingCase_UofT.pdf"
@@ -188,7 +196,7 @@
   date: 'January 2016'
   authors: 'Peter Jurgec'
   type: Talk
-  event: 'the 13th Old World Conference in Phonology (OCP13)' 
+  event: 'the 13th Old World Conference in Phonology (OCP13)'
   location: 'Budapest, Hungary'
   link: ''
   linktext: ''
@@ -197,72 +205,72 @@
   date: 'November 2015'
   link: "BjorkmanHalpertKarawani_2015_FromTimesToWorlds_PerfectVariation.pdf"
   linktext: "slides"
-  type: Talk 
-  event: "the Perfect: variation workshop" 
+  type: Talk
+  event: "the Perfect: variation workshop"
   location: 'Trondheim, Norway'
 - name: "The Case of Aspect"
   authors: ''
   date: 'October 2015'
   link: "Bjorkman_2015_CaseofAspect_Cornell.pdf"
   linktext: "handout"
-  type: Talk 
+  type: Talk
   event: 'the Cornell workshop on Aspect'
   location: 'Ithaca, NY'
-  note: 'An earlier version of this talk was also presented at the 2015 Dog Days of Syntax workshop at UofT.' 
+  note: 'An earlier version of this talk was also presented at the 2015 Dog Days of Syntax workshop at UofT.'
 - name: "<i>There</i> then and now."
   date: 'September 2015'
-  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
-  type: Talk 
-  event: 'SLE 2015' 
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
+  type: Talk
+  event: 'SLE 2015'
   location: 'Leiden, the Netherlands'
   link: ''
   linktext: ''
 - name: "Illusions of transitive expletives in Middle English."
   date: 'July 2015'
-  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
   link: "CowperEtAl_2015_IllusionsOfTransitiveExpletives_ICHL22.pdf"
   linktext: "handout"
-  type: Talk 
+  type: Talk
   event: 'the 22nd International Conference on Historical Linguistics'
   location: 'Naples, Italy'
 - name: "Where <i>there</i> is, and why."
   date: 'May 2015'
-  authors: 'Elizabeth Cowper' 
+  authors: 'Elizabeth Cowper'
   link: "BjorkmanCowper_2015_WhereThereIs_CLA2015.pdf"
   linktext: "handout"
-  type: Talk 
+  type: Talk
   event: "the 2015 CLA Annual Conference / Congrès annuel de l'ACL"
   location: 'Ottawa, ON'
 - name: "There's no future in Old English."
   date: 'May 2015'
-  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
   link: "CowperEtAl_2015_NoFutureInOldEnglish_CLA2015.pdf"
   linktext: "handout"
-  type: Talk 
+  type: Talk
   event: "the 2015 CLA Annual Conference / Congrès annuel de l'ACL"
   location: 'Ottawa, ON'
 - name: "Investigating the past of the futurate present."
   date: 'May 2015'
-  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee' 
-  type: Talk 
-  event: 'DiGS 17' 
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
+  type: Talk
+  event: 'DiGS 17'
   location: 'Reykjavík, Iceland'
   link: ''
-  linktext: '' 
+  linktext: ''
 - name: "Upwards Agree is Superior"
   authors: 'Hedde Zeijlstra'
   date: 'March 2015'
   link: "BjorkmanZeijlstra_UpwardsAgree_Poster_WCCFL33.pdf"
   linktext: "poster"
   type: Poster
-  event: 'WCCFL 33' 
+  event: 'WCCFL 33'
   location: 'Vancouver, BC'
-- name: "Upwards Agree and LDA" 
+- name: "Upwards Agree and LDA"
   date: 'March 2015'
   authors: ''
   link: ''
   linktext: ''
-  type: Talk 
+  type: Talk
   event: 'the McGill Syntax Reading Group'
   location: 'Montreal, QC'
   note: 'joint work with Hedde Zeijlstra'
@@ -279,7 +287,7 @@
   date: 'January 2015'
   authors: 'Ewan Dunbar'
   link: "BjorkmanDunbar_2015_CyclicStress_Poster_LSA2015.pdf"
-  linktext: "poster" 
+  linktext: "poster"
   type: Poster
   event: 'the 2015 LSA Annual Meeting'
   location: 'Portland, OR'
@@ -305,15 +313,15 @@
   date: 'January 2014'
   authors: ''
   link: "Bjorkman_2014_Agree_Poster_LSA2014.pdf"
-  linktext: "poster" 
+  linktext: "poster"
   type: Poster
-  event: 'the 2014 LSA Annual Meeting' 
-  location: 'Minneapolis, MN' 
+  event: 'the 2014 LSA Annual Meeting'
+  location: 'Minneapolis, MN'
 - name: "Inflectional shells and the syntax of causative <i>have</i>"
   authors: 'Elizabeth Cowper'
   date: 'June 2013'
   link: "BjorkmanCowper_2013_InflectionalShells_Poster_CLA2013.pdf"
-  linktext: "poster" 
+  linktext: "poster"
   type: Poster
   event: "the 2013 CLA Annual Conference / Congrès annuel de l'ACL"
   location: 'Victoria, BC'
@@ -325,10 +333,10 @@
   type: Talk
   event: 'GLOW 36'
   location: 'Lund, Sweden'
-- name: "Aspectual Ergative as Perfective Oblique"  
+- name: "Aspectual Ergative as Perfective Oblique"
   date: 'January 2013'
   link: "Bjorkman_2013_AspectualErgative_Poster_LSA2013.pdf"
-  linktext: "poster" 
+  linktext: "poster"
   type: Poster
   event: 'the 2013 LSA Annual Meeting'
   location: 'Boston, MA'
@@ -376,17 +384,17 @@
   authors: ''
   date: 'April 2011'
   link: "Bjorkman_2011_DefaultnessofBE_Poster_WCCFL29.pdf"
-  linktext: "poster" 
+  linktext: "poster"
   type: Poster
   event: 'WCCFL 29, University of Arizona'
-  location: 'Tucson, AZ' 
+  location: 'Tucson, AZ'
 - name: "The Syntax of Inverted Conditional Antecedents."
   date: 'January 2011'
   link: "Bjorkman_2011_ConditionalInversion_handout_LSA2011.pdf"
   linktext: "handout"
   type: Talk
   event: 'the 2011 LSA Annual Meeting'
-  location: 'Pittsburgh, PA' 
+  location: 'Pittsburgh, PA'
   authors: ''
 - name: "Towards an Asymmetric Semantics for <i>and</i>."
   date: 'December 2010'
@@ -403,7 +411,7 @@
   type: Talk
   event: 'NELS 41, University of Pennsylvania'
   location: 'Philadelphia, PA'
-- name: "The Morphological Basis of Default-to-Opposite Stress in Nez Perce" 
+- name: "The Morphological Basis of Default-to-Opposite Stress in Nez Perce"
   date: 'January 2010'
   authors: ''
   link: "Bjorkman_2010_NezPerceStress_handout_WSCLA14.pdf"
@@ -411,7 +419,7 @@
   type: Talk
   event: 'OCP 7 (Nice, France) and WSCLA 14, University of Ottawa'
   location: 'Ottawa, ON'
-- name: "The Syntax of Syncretism" 
+- name: "The Syntax of Syncretism"
   date: 'November 2009'
   authors: ''
   link: "Bjorkman_2009_SyntaxSyncretism_handout_NELS40.pdf"
@@ -419,8 +427,8 @@
   type: Talk
   event: 'NELS 40, MIT'
   location: 'Cambridge, MA'
-  note: 'a similar talk was presented at GLS 2010, Georgetown University in Februrary 2010'  
-- name: "Uniform Exponence and Reduplication: Evidence from Kinande" 
+  note: 'a similar talk was presented at GLS 2010, Georgetown University in Februrary 2010'
+- name: "Uniform Exponence and Reduplication: Evidence from Kinande"
   authors: ''
   date: 'May 2009'
   link: "Bjorkman_2009_Kinande_Reduplication_handout_17mfm.pdf"
@@ -428,7 +436,7 @@
   type: Talk
   event: 'the 17th Manchester Phonology Meeting, University of Manchester'
   location: 'Manchester, UK'
-- name: "Go Get, Come See" 
+- name: "Go Get, Come See"
   authors: ''
   date: 'April 2009'
   link: "Bjorkman_2009_GoVerb_handout_ECO5-09.pdf"
