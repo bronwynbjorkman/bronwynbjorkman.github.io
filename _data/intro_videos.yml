@@ -1,0 +1,113 @@
+- week: 'Fall Week 1'
+  title: 'LING 100 Fall Week 1.1: What is Linguistics?'
+  title: 'LING 100 Fall Week 1.2: Human capacity for language'
+  title: 'LING 100 Fall Week 1.3: The logical problem of language acquisition'
+  title: 'LING 100 Fall Week 1.4: Reconciliation and Linguistics'
+
+- week: 'Fall Week 2'
+  title: 'LING 100 Fall Week 2.1: Morphology'
+  title: 'LING 100 Fall Week 2.2 Allomorphy'
+  title: 'LING 100 Fall Week 2.3 Parts of Speech I'
+  title: 'LING 100 Fall Week 2.4 Derivational Morphology'
+
+- week: 'Fall Week 3'
+  title: 'LING 100 Fall Week 3.1 Drawing Morphological Trees'
+  title: 'LING 100 Fall Week 3.1a Bonus Tree'
+  title: 'LING 100 Fall Week 3.2 Trees with (Potential) Ambiguity'
+  title: 'LING 100 Fall Week 3.3 Inflectional Morphology'
+  title: 'LING 100 Fall Week 3.4 Compounds'
+
+- week: 'Fall Week 4'
+  title: 'LING 100 Fall Week 4.1: Syntax - From Words to Phrases'
+  title: 'LING 100 Fall Week 4.2 Building Trees'
+  title: 'LING 100 Fall Week 4.3 Parts of Speech II Lexical Categories Redux'
+  title: 'LING 100 Fall Week 4.4 Parts of Speech II: Functional Categories'
+
+- week: 'Fall Week 5'
+  title: 'LING 100 Fall Week 5.1 Phrase Structure Rules'
+  title: 'LING 100 Fall Week 5.2 X-bar Theory'
+  title: 'LING 100 Fall Week 5.3 Sentences as TPs'
+  title: 'LING 100 Fall Week 5.4 X-bar Variation: Head Directionality'
+
+- week: 'Fall Week 6'
+  title: 'LING 100 Fall Week 6.1 Modifiers as Adjuncts'
+  title: 'LING 100 Fall Week 6.2 Structural Ambiguity'
+  title: 'LING 100 Fall Week 6.3 Embedded clauses as CPs'
+
+- week: 'Fall Week 7'
+  title: 'LING 100 Fall Week 7.1 Embedded Questions'
+  title: 'LING 100 Fall Week 7.2 Main Clause Yes-No Questions'
+  title: 'LING 100 Fall Week 7.3 Do-Support'
+
+- week: 'Fall Week 8'
+  title: 'LING 100 Fall Week 8.1 WH-Questions'
+  title: 'LING 100 Fall Week 8.2 Embedded WH Questions'
+  title: 'LING 100 Fall Week 8.3 Verb Movement'
+
+- week: 'Fall Week 9'
+  title: 'LING 100 Fall Week 9.1 Roles in Events'
+  title: 'LING 100 Fall Week 9.2 Passives'
+  title: 'LING 100 Fall Week 9.3 Passive Syntax and NP Movement'
+
+- week: 'Fall Week 10'
+  title: 'LING 100 Fall Week 10.1 Semantics'
+  title: 'LING 100 Fall Week 10.2 Lexical Domains'
+  title: 'LING 100 Fall Week 10.3 Deixis and Demonstratives'
+
+- week: 'Fall Week 11'
+  title: 'LING 100 Fall Week 11.1 Compositional Semantics'
+  title: 'LING 100 Fall Week 11.2 Denotation of Transitive Verbs'
+  title: 'LING 100 Fall Week 11.3 Semantic Types'
+
+- week: 'Fall Week 12'
+  title: 'LING 100 Fall Week 12.1 Pragmatics and Cooperation'
+  title: 'LING 100 Fall Week 12.2 Maxims of Conversation'
+
+- week: 'Winter Week 1'
+  title: 'LING 100 Winter Week 1.1 Sociolinguistics (Intro)'
+  title: 'LING 100 Winter Week 1.2 Conversation'
+  title: 'LING 100 Winter Week 1.3 Politeness'
+
+- week: 'Winter Week 2'
+  title: 'LING 100 Winter Week 2.1 Language and Social Identity'
+  title: 'LING 100 Winter Week 2.2 Language and Gender'
+  title: 'LING 100 Winter Week 2.3 Language and Gender cont'd'
+
+- week: 'Winter Week 3'
+  title: 'LING 100 Winter Week 3.1 Regional Variation'
+  title: 'LING 100 Winter Week 3.2 Introduction to Phonetics'
+
+- week: 'Winter Week 4'
+  title: 'LING 100 Winter Week 4.1 Vowels of (Canadian) English'
+  title: 'LING 100 Winter Week 4.2 Consonants of English'
+
+- week: 'Winter Week 5'
+  title: 'LING 100 Winter Week 5.1 Phonetic Processes: Aspiration'
+  title: 'LING 100 Winter Week 5.2 Stress, Syllables, and Intonation'
+  title: 'LING 100 Winter Week 5.3 Other phonetic processes'
+
+- week: 'Winter Week 6'
+  title: 'LING 100 Winter Week 6.1 From Phonetics to Phonology'
+  title: 'LING 100 Winter Week 6.2 Different Languages, Different Phonemes'
+  title: 'LING 100 Winter Week 6.3 Allophones and Complementary Distribution'
+
+- week: 'Winter Week 7'
+  title: 'LING 100 Winter Week 7.1 Phonological Features: Consonants'
+  title: 'LING 100 Winter Week 7.2 Phonological Features: Vowels'
+
+- week: 'Winter Week 8'
+  title: 'LING 100 Winter Week 8.1 Phonological Rules'
+  title: 'LING 100 Winter Week 8.2 Rule Notation'
+
+- week: 'Winter Week 9'
+
+- week: 'Winter Week 10'
+
+- week: 'Winter Week 11'
+  title: 'LING 100 Winter Week 11.1 Bilingualism and Heritage Speakers'
+  title: 'LING 100 Winter Week 11.2 Indigenous Languages in Canada'
+  title: 'LING 100 Winter Week 11.3 Language Revitalization'
+
+- week: 'Winter Week 12'
+  title: 'LING 100 Winter Week 12.1: Language, Music, and Poetry'
+  title: 'LING 100 Winter Week 12.2 Metre and Textsetting'
