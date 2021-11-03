@@ -7,8 +7,6 @@ author: Bronwyn
 featured-img: /assets/images/line-up.jpg
 ---
 
-<!--[Originally written on September 17, 2018, in my green bujo, as a draft post for the hypothetical "Social Justice Warrior Language Log" blog that never got off the ground]-->
-
 Contemporary "standard" English famously lacks a distinction between singular and plural in the second person, but almost as famously, "non-standard" varieties of English are forever innovating new second person plural pronouns---<i>y'all</i>, <i>yinz</i>, <i>yous</i>, and similar---or else simply retain singular <i>thou</i>. All of these moves address an ambiguity that does exist in the standard pronoun inventory, though one that frankly doesn't cause as much confusion as we might have expected.
 
 In a research meeting sometime in 2017, as an aside to a different topic, [Dan Siddiqi](https://carleton.ca/slals/people/siddiqi-daniel/) once suggested that all (or nearly all) English speakers have a way to express a singular-plural distinction in the second person, at least in casual speech, and he suggested further that in for many people the plural second person pronoun is *you guys*. I protested at the time, claiming that even at my most colloquial I genuinely had no second person pronoun other than plain *you*, and though I used *you guys* it definitely wasn't a *pronoun*.
@@ -88,7 +86,7 @@ So to sum up, *you guys* looks like an English pronoun (or at least not like an 
 
 Because this is a blog post and not an academic article, I don't have to give you a worked-out analysis that resolves this conflict. What I'll say is that it seems plausible that *you guys* is a form of emphatic strong pronoun, in some sense of "emphatic" and "strong" that I would be very interested to see someone else define.
 
-*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggested this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further. 
+*ETA 08.26:* Amy Rose Deal pointed out on Facebook that *you guys* also doesn't allow appositives like *both* or *two*: compare *I'll see you two later* with \**I'll see you guys both later*, though y'all does for at least some speakers (As in: *I'll see y'all two later*), and she suggested this might show that *guys* in *you guys* is still an appositive modifier of some kind, whereas *all* in *y'all* has grammaticalized further.
 
 ### Does it matter if *you guys* is a pronoun?
 
@@ -135,6 +133,9 @@ As I said above, I'm open to arguments that we should try to eliminate *you guys
 As a final note, it was only through the greatest effort that this blog post didn't digress for several hundred words on the troubling fact that there is, to my knowledge, no reasonable formal feature system for English that can naturally accommodate the **impersonal** use of *you*, which is not (to my knowledge) shared by any of the innovated plural pronouns. If you think there actually is, please set my mind at ease by letting me know about it.
 
 ### Some additional notes
+
+
+<!--[Originally written on September 17, 2018, in my green bujo, as a draft post for the hypothetical "Social Justice Warrior Language Log" blog that never got off the ground]-->
 
 Amy Rose Deal has a short [article in Snippets](https://www.ledonline.it/snippets/allegati/snippets13000.pdf) that uses the existence of *your guys's* as an argument that English pronouns have a genuine genitive case form.
 
