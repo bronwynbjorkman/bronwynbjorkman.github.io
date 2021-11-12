@@ -425,3 +425,10 @@ img.scaled{
 	object-fit: contain;
 	width: 100%;
 	}
+
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}

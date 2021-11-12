@@ -2,7 +2,7 @@
 layout: post
 title:  "Some thoughts on roots and variation"
 date:   2021-11-03 -0500
-tags: Linguistics
+tags: Linguistics, Inside Baseball
 author: Bronwyn
 featured-img: /assets/images/root-rock.jpg
 ---
