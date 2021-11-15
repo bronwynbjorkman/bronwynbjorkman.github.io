@@ -1,3 +1,21 @@
+- name: 'Representing and resolving feature conflicts'
+  authors: ''
+  date: 'June 2021'
+  type: Talk
+  event: "the 2021 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Online'
+- name: 'Morphological upstaging and markedness'
+  authors: 'Elizabeth Cowper, Daniel Currie Hall, Louise Koren, Jennice Hinds, and Dan Siddiqi'
+  date: 'June 2021'
+  type: Talk
+  event: "the 2021 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Online'
+- name: 'Podcasting in a Pandemic for Teaching, Outreach, and Justice (multimedia poster).'
+  authors: 'Catherine Anderson, Feliz Desmeules-Trudel, Juliane Doner, Margaret Grant, Daniel Currie Hall, Timothy Mills, Nathan Sanders, Ai Tanaguchi'
+  type: Poster
+  event: '2021 LSA Annual Meeting'
+  date: 'January 2021'
+  location: 'Online'
 - name: 'When syncretism can (and can’t) fix feature mismatches'
   authors: ''
   date: 'March 19 2021'
@@ -49,7 +67,7 @@
   link: Bjorkman_2019_ReduplicationWithoutSegments_NELS50.pdf
 - name: "We seen 'eh' and so on: a preliminary study of three variables in the Wolfe Island English Corpus."
   date: 'January 2019'
-  authors: Anastasia Riehl
+  authors: 'Anastasia Riehl'
   type: Talk
   event: 'the 2019 Meeting of the American Dialect Society'
   location: 'New York, NY'

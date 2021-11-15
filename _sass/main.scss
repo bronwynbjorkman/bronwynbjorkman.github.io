@@ -38,14 +38,18 @@ body{
 
 
 	.content {
-	padding: $navheight + $buffer 2em 2em 2em;
+/*padding for overlay navbar*/
+	//padding: $navheight + $buffer 2em 2em 2em;
+	padding: $buffer 2em 2em 2em;
 	background-color: white;
 	border-left: 2px solid $backgroundcolor;
 	border-bottom: 2px solid $backgroundcolor;
 	}
 
 	.splash {
-	padding: $navheight + $buffer 2em 2em 2em;
+		/*padding for sticky navbar*/
+		//	padding: $navheight + $buffer 2em 2em 2em;
+		padding: $buffer 2em 2em 2em;
 	}
 
 
@@ -53,7 +57,9 @@ body{
 
 nav.top{
  	list-style: none;
-    position: fixed;
+	/* Make it stick, even on scroll */
+//    position: fixed;
+		position: relative;
     left: 0;
     top: 0;
     padding: 0;
@@ -61,7 +67,7 @@ nav.top{
     background-color: white;
     height: $navheight;
     font-family: $navfontstack;
-    z-index: 5;
+    z-index: 100;
     font-weight: 400;
 
  	ul {
@@ -69,7 +75,7 @@ nav.top{
   	margin: 0;
   	padding: 0;
   	width: 100%;
-	background-color: white;
+   	background-color: white;
 // 	position: fixed; /* Make it stick, even on scroll */
   	overflow: hidden;
     text-align: left;
@@ -95,7 +101,9 @@ nav.top{
 
 div.sidebar{
 	margin-left: -20px;
-	padding: $navheight+$buffer 0em 2em 1em;
+	/*padding for overlay navbar*/
+	//padding: $navheight+$buffer 0em 2em 1em;
+	padding: 2em 0em 2em 1em;
     font-family: $navfontstack;
     z-index: 3;
 	float: left;
@@ -116,12 +124,14 @@ div.sidebar{
 
 div.blogcontent{
  	margin: 0px;
-	padding: $navheight + $buffer 2em 2em 2em;
+	/*padding for overlay navbar*/
+	//padding: $navheight + $buffer 2em 2em 2em;
+		padding: $buffer 2em 2em 2em;
 	width: 75%;
  	float: right;
  	border-left: 2px solid $backgroundcolor;
 	border-bottom: 2px solid $backgroundcolor;
-
+	z-index: 1;
 
 	}
 

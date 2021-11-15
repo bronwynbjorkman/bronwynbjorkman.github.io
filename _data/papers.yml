@@ -8,25 +8,15 @@
   title: 'Against licensing in Sequence of Tense (squib)'
   year: 'submitted'
   note: "submitted to Canadian Journal of Linguistics/Revue canadienne de linguistique, October 2019"
-  mslink: 
+  mslink:
   mslinktext: 'manuscript pdf'
-- authors: ''
-  type: manuscript
-  title: "What's going on with <i>you guys</i>?"
-  note: 'being revised, Spring 2020'
-  year: 'revising'
-- authors: 'Elizabeth Cowper and Dan Siddiqi'
-  type: manuscript
-  title: 'Unifying -ing without participles'
-  year: 'submitted'
-  note: 'submitted to Morphology, March 2020'
 - authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
   type: collection
   venue: 'Syntactic Features and the Limits of Syntactic Change'
   editors: "Jónsson, Jóhannes Gísli and Eythórsson, Thórhallur"
   publisher: 'Oxford University Press'
   title: 'Investigating the past of the futurate present'
-  year: 'In press'
+  year: '2021'
 - authors: 'Hedde Zeijlstra'
   type: journal
   venue: 'Linguistic Inquiry'
@@ -50,7 +40,7 @@
 - authors: 'Elizabeth Cowper, Daniel Currie Hall, and Andrew Peters'
   type: journal
   year: '2019'
-  title: 'Person and deixis in Heiltsuk pronouns' 
+  title: 'Person and deixis in Heiltsuk pronouns'
   venue: 'Canadian Journal of Linguistics/Revue canadienne de linguistique'
   vol: '64(4)'
   pages: '574–591'
@@ -67,9 +57,9 @@
   vol: '21.4'
   year: '2018'
   DOI: https://doi.org/10.1111/synt.12162
-  link: https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12162  
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12162
   linktext: 'at Syntax'
-  mslink: 
+  mslink:
   mslinktext: 'on lingbuzz (pre-publication pdf)'
 - authors: 'Peter Jurgec'
   year: '2018'
@@ -100,7 +90,7 @@
   mslinktext: 'pdf'
 - authors: ''
   type: collection
-  year: '2017'	
+  year: '2017'
   title: 'How to do things with verbs'
   venue: 'A Pesky Set: Papers for David Pesetsky'
   editor: 'C. Halpert, H. Kotek, and C. van Urk'
@@ -277,9 +267,9 @@
   series: 'Coyote Working Papers in Linguistics'
   title: 'The Crosslinguistic Defaultness of \textit{be}'
   year: '2011'
-  link: 
+  link:
   linktext: 'pdf'
-- authors: ''  
+- authors: ''
   type: collection
   venue: 'McGill Working Papers in Linguistics'
   volume: '20.2'
@@ -305,16 +295,16 @@
 #- title: ''
 #  type: proceedings/collection/other/journal/manuscript
 #  authors: ''
-#  year: 
+#  year:
 #  venue:
-#  volume: 
+#  volume:
 #  pages:
-#  publisher: 
-#  series: 
-#  editor: 
-#  DOI: 
-#  linktext: 
-#  link: 
-#  mslink: 
+#  publisher:
+#  series:
+#  editor:
+#  DOI:
+#  linktext:
+#  link:
+#  mslink:
 #  mslinktext:
-#  note: 
+#  note:

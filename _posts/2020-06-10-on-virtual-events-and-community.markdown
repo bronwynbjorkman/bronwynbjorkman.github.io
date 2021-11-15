@@ -2,7 +2,7 @@
 layout: post
 title:  "On virtual events and community"
 date:   2020-06-10
-tags:  Resources
+tags:  Resources, conferences
 author: Bronwyn
 featured-img: /assets/images/social-media.jpg
 ---
@@ -45,7 +45,7 @@ But everything I wrote above was about how conferences aren't just about finding
 
 The much harder question is how to recreate the sense of community and space for serendipitous one-on-one connections that are so much of what people find valuable about attending in-person events. It might not be possible to create the *same* sense of community you get from being in a large room with hundreds of other people, or the *same* spontaneous conversations you have with someone over coffee breaks, but the goal is to create something meaningfully similar.
 
-Based on my experience so far, a key to creating space for these more ephemeral social connections is to set up a platform that exists "alongside" the conference, ideally one that's meant for casual text-based chat. THEY 2019 used Slack; both WisCon and the CLA used Discord. The key property of these platforms is that communicating is quick and easy, and both have some fun options (via emoji reactions), but they also permit the parallel space to be divided into separate channels. Something similar could be done by using a message board, though in my experience message boards don't create quite the sense of "being there", because they aren't as fast moving and interactive. 
+Based on my experience so far, a key to creating space for these more ephemeral social connections is to set up a platform that exists "alongside" the conference, ideally one that's meant for casual text-based chat. THEY 2019 used Slack; both WisCon and the CLA used Discord. The key property of these platforms is that communicating is quick and easy, and both have some fun options (via emoji reactions), but they also permit the parallel space to be divided into separate channels. Something similar could be done by using a message board, though in my experience message boards don't create quite the sense of "being there", because they aren't as fast moving and interactive.
 
 For WisCon in particular, we created unstructured social spaces by naming them after the physical spaces in the hotel where unstructured social interaction usually happens. So we created channels for the #lobby, and #the-bar, and several channels that were set up as spontaneous programming "rooms".
 
