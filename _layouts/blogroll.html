@@ -13,7 +13,7 @@ layout: default
 		    </li>
 		  {% endfor %}
 		</ul>
-		
+
 		<b>Posts by Tags</b>
 		<ul>
 			{% assign sorted_tags = site.tags | sort %}
@@ -23,15 +23,13 @@ layout: default
 	    			<li>
     	  			<a href="/tag/{{t}}">{{t | downcase}} <span>({{ posts | size }})</span></a>
 					</li>
-				{% endfor %}    
+				{% endfor %}
 		</ul>
-		
-		<a href="https://bronwynbjorkman.net/feed.xml">RSS feed</a>
+
+		<a href="/feed.xml">RSS feed</a>
 	</div>
 	<div class="blogcontent" style="margin-bottom: 1em;">
 	    {{ content }}
 	</div>
-	
+
 	</div>
-
-
