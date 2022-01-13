@@ -2,16 +2,16 @@
 layout: blogroll
 ---
 
-		<div class="featuredimgbanner" {% if page.featured-img %} style="background-image: url('{{ page.featured-img }}');" {% endif %}>
-    	</div>
-		
+	<!--	<div class="featuredimgbanner" {% if page.featured-img %} style="background-image: url('{{ page.featured-img }}');" {% endif %}>
+    	</div>-->
+
 		<h1>{{ page.title }}</h1>
-		{{ page.date | date: "%B %d %Y"}} | 
+		{{ page.date | date: "%B %d %Y"}} |
 			{% for tag in page.tags %}
 				<a href="/tag/{{ tag }}">#{{ tag | downcase }} </a>
 			{% endfor %}
-		
-		<div>		
+
+		<div>
 	    {{ content }}
 		</div>
 
