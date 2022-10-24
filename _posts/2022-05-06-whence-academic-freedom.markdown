@@ -7,25 +7,32 @@ author: Bronwyn
 featured-img: /assets/images/rainbow-textbooks.jpg
 ---
 
-As some readers may be aware, the Linguistics Society of America is embroiled in a controversy about academic freedom. ((Yes, another one.)[https://ling.auf.net/lingbuzz/006590])
+As some readers may be aware, the Linguistics Society of America is embroiled in a controversy about academic freedom. [Yes, another one.](https://ling.auf.net/lingbuzz/006590)
 
 If you weren't aware, I've included a summary of the timeline beneath the following cut (corrections welcome):
 
 <details>
 
-<summary>(click to expand)</summary>
+<summary>(summary as of May 5 2022)</summary>
 
-- *April 26:* The LSA distributes a resolution for discussion by the membership. The resolution proposes that the LSA adopt a lightly revised version of the [Chicago Principles of Free Expression](https://freeexpression.uchicago.edu/); comments are open until May 31, to be followed by a vote of the membership.
-- *Immediately thereafter, continuing for several days:* Some comment in support of the resolution, but most in opposition. In addition to a variety of procedural and practical objections, Many objectors point out that the resolution undercuts or is hostile to recent work attempting to advance justice, equity, diversity, and inclusion within the LSA. (Several commenters observe that for exactly this reason, the Chicago Principles have not been uncontroversial.)
-- *At the same time:* Reading the minutes of the January 2022 meeting of the LSA Executive Committee, one commenter observes that adopting the Chicago Principles was initially proposed to the EC directly, not as a resolution. In the same meeting of the EC, two other proposals were put to the EC: removing the *Perspectives* section from the flagship LSA journal *Language*, and ending the voluntary collection of demographic information from LSA members. This confluence of proposals is seen by many opponents of the resolution as confirmation that at least some of the people who proposed it do indeed seek to undercut efforts to improve equity, diversity, and inclusion in the LSA.
-- *May 2:* The LSA EC withdraws the resolution on procedural grounds (according to an email, the EC believed they voted only on whether to send a resolution to the membership, while in fact they vote on whether to approve the resolution themselves). Comments are hidden, then made visible, then hidden again. Briefly, a comment from one of the original signatories to the resolution is visible, promising a collective unified statement in a few days.
-- *May 6:* The LSA EC emails the membership again, this time with a link to a new forum for discussing the resolution. None of the previous comments are visible, but commenters are invited to repost if they choose.
+<ul>
+<li> <b>April 26:</b> The LSA distributes a resolution for discussion by the membership. The resolution proposes that the LSA adopt a lightly revised version of the [Chicago Principles of Free Expression](https://freeexpression.uchicago.edu/); comments are open until May 31, to be followed by a vote of the membership.
+</li>
+<li> <b>Immediately thereafter, continuing for several days:</b> Some comment in support of the resolution, but most in opposition. In addition to a variety of procedural and practical objections, Many objectors point out that the resolution undercuts or is hostile to recent work attempting to advance justice, equity, diversity, and inclusion within the LSA. (Several commenters observe that for exactly this reason, the Chicago Principles have not been uncontroversial.)
+</li>
+<li> <b>At the same time:</b> Reading the minutes of the January 2022 meeting of the LSA Executive Committee, one commenter observes that adopting the Chicago Principles was initially proposed to the EC directly, not as a resolution. In the same meeting of the EC, two other proposals were put to the EC: removing the *Perspectives* section from the flagship LSA journal *Language*, and ending the voluntary collection of demographic information from LSA members. This confluence of proposals is seen by many opponents of the resolution as confirmation that at least some of the people who proposed it do indeed seek to undercut efforts to improve equity, diversity, and inclusion in the LSA.
+</li>
+<li> <b>May 2:</b> The LSA EC withdraws the resolution on procedural grounds (according to an email, the EC believed they voted only on whether to send a resolution to the membership, while in fact they vote on whether to approve the resolution themselves). Comments are hidden, then made visible, then hidden again. Briefly, a comment from one of the original signatories to the resolution is visible, promising a collective unified statement in a few days.
+</li>
+<li> <b>May 6:</b> The LSA EC emails the membership again, this time with a link to a new forum for discussing the resolution. None of the previous comments are visible, but commenters are invited to repost if they choose.
+</li>
+</ul>
 
 </details>
 
 I was and remain opposed to the resolution that was proposed, though I value academic freedom and agree it deserves protection. Here, for the record, I am preserving a lightly edited copy of a comment I posted on the second discussion page hosted by the LSA.
 
---
+---
 
 In several venues, both online and offline, I have heard or seen many colleagues express confusion about why so many other (often more junior) linguists object to a statement that seems (to the first group) merely to articulate benign support for free speech and academic freedom.
 

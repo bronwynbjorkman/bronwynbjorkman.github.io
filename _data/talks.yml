@@ -1,3 +1,39 @@
+- name: 'Multiple ways to be multiply valued'
+  authors: ''
+  date: 'June 2022'
+  type: Special
+  event: "Colloquium talk, Interaction of Grammatical Building Blocks series"
+  location: 'Online, Uniersity of Leipzig'
+- name: 'Verb doubling and the architecture of realization'
+  authors: ''
+  date: 'April 2022'
+  type: Special
+  event: "Colloquium talk, Yale University"
+  location: 'New Haven, CT'
+- name: 'Verb doubling and the architecture of realization'
+  authors: ''
+  date: 'Februrary 2022'
+  type: Special
+  event: "Colloquium talk, MIT"
+  location: 'Cambridge, MA'
+- name: 'Multiple valuation, syncretism, and morphosyntactic repairs"
+  authors: ''
+  date: 'April 2022'
+  type: Special
+  event: "Colloquium talk, University of Victoria"
+  location: 'Victoria BC'
+- name: 'How syntax avoids conflict, and how morphology (sometimes) resolves it'
+  authors: ''
+  date: 'April 2022'
+  type: Special
+  event: "NYU Syntax Brown Bag Series"
+  location: 'New York, NY'
+- name: 'Person and gender in pronoun paradigms: a semantic account of a morphological pattern'
+  authors: 'Isabelle Boyer, Elizabeth Cowper, Daniel Currie Hall, Louise Koren, and Dan Siddiqi'
+  date: 'June 2022'
+  type: Talk
+  event: "the 2021 CLA Annual Conference / Congrès annuel de l'ACL"
+  location: 'Online'
 - name: 'Representing and resolving feature conflicts'
   authors: ''
   date: 'June 2021'

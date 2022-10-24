@@ -1,6 +1,6 @@
 - authors: ''
   type: manuscript
-  year: 'revising'
+  year: 'accepted'
   note: 'chapter to appear in Oxford Handbook of Distributed Morphology, eds. Artemis Alexiadou, Heidi Harley, and Ruth Kramer'
   title: "Verbal Inflection in Distributed Morphology"
 - authors: ''
@@ -10,6 +10,22 @@
   note: "submitted to Canadian Journal of Linguistics/Revue canadienne de linguistique, October 2019"
   mslink:
   mslinktext: 'manuscript pdf'
+- authors: ''
+  type: proceedings
+  venue: 'Proceedings of NELS 50'
+  publisher: 'GLSA'
+  title: "Reduplication without segments: verb doubling as prosodic repair"
+  year: '2020'
+- authors: ''
+  title: 'Some structural disanalogies between pronouns and tenses'
+  type: journal
+  venue: 'Canadian Journal of Linguistics/Revue canadienne de linguistique'
+  vol: '67(3)'
+  pages: '143–165'
+  year: '2022'
+  DOI: 10.1017/cnj.2022.26
+  link: https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/some-structural-disanalogies-between-pronouns-and-tenses/06E98E4F440E2FDD6675EC03E1EFDEEF
+  linktext: 'at CJL'
 - authors: 'Elizabeth Cowper, Daniel Currie Hall, Rebecca Tollan, and Neil Banerjee'
   type: collection
   venue: 'Syntactic Features and the Limits of Syntactic Change'
@@ -35,7 +51,7 @@
   pages: '211–246'
   DOI: 10.1007/s10828-019-09110-z
   link: https://link.springer.com/article/10.1007%2Fs10828-019-09110-z
-  linktext: 'at JCGL'
+  linktext: 'ç'
   year: '2019'
 - authors: 'Elizabeth Cowper, Daniel Currie Hall, and Andrew Peters'
   type: journal
