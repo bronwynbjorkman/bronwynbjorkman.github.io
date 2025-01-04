@@ -1,9 +1,9 @@
 - name: Home
   link: /
-- name: Talks
+- name: Writing
+  link: /papers.html
+- name: Presentations
   link: /talks.html
-- name: Papers
-  link: /papers.html 
 - name: Teaching
   link: /teaching.html
 - name: Blog
