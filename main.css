@@ -1,0 +1,125 @@
+
+
+
+
+body {
+  background-color: #F8F8F8;
+  font-size:100%;
+  font-family:"Open Sans";
+}
+
+a:link {color: seagreen;text-decoration:none;}
+a:visited {color: seagreen;text-decoration:none;}
+a:hover {color: gold}
+a:active {color: gold}
+
+div.main {
+  width:60%;
+  margin: auto;
+}
+
+
+
+h1
+	{
+	font-family: "Crimson Text", serif;
+	color: DimGray;
+	font-size: clamp(2.5em, 5vw, 10em);
+  font-weight:400;
+	margin-top: 0;
+	margin-bottom: 0;
+  text-align: center;
+	}
+
+h2
+  {
+  font-family: "Crimson Text", serif;
+  color: seagreen;
+  font-size: clamp(2em, 2vw, 10em);
+  font-weight:400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h3
+  {
+  font-family: "Crimson Text", serif;
+  color: DimGray;
+  font-size: clamp(1.75em, 1.75vw, 10em);
+  font-weight:400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+footer{
+  text-align:right;
+}
+
+td {
+  vertical-align: top;
+  padding: 0.5em;
+}
+
+/*Navigation Bar*/
+
+nav{
+ 	list-style: none;
+  font-family:"Raleway", sans-serif;
+  text-align:center;
+
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  border-bottom: 2px solid $backgroundcolor;
+}
+
+nav li {
+display: inline-block;
+padding: 1em 1em 0.5em 1em;
+}
+
+nav a {
+display: block;
+text-decoration: none;
+text-align: center;
+padding: 1em, 1em 0.5em 1em;
+}
+
+img.circle
+{
+display: block;
+border-radius: 50%;
+border-style: solid;
+border-color: gray;
+border-width: 3px;
+width: clamp(15em, 30vw, 350px);
+margin-top: 2em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 2em;
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: DimGray;
+  }
+  nav li {
+    display: block;
+    padding: 0.25em 0.25em 0.25em 0.25em;
+    /*padding: 1em 1em 0.5em 1em;*/
+  }
+
+  div.main {
+    width:95%;
+    margin: auto;
+  }
+}
+
+}
